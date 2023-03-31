@@ -1,1410 +1,1410 @@
-gender,SeniorCitizen,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges
-Female,0,No,No,Yes,No,0,No,Yes,No,No,Yes,No,2,No,Electronic check,58.2
-Male,0,No,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),116.6
-Female,0,No,No,Yes,No,0,Yes,No,No,No,Yes,Yes,1,Yes,Electronic check,71.95
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.45
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Credit card (automatic),77.75
-Male,1,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.9
-Male,0,Yes,Yes,Yes,Yes,0,No,Yes,No,Yes,No,No,0,No,Mailed check,59.7
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.55
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,2,No,Credit card (automatic),60.7
-Male,1,Yes,No,Yes,Yes,2,Yes,Yes,No,No,No,Yes,1,Yes,Electronic check,94.55
-Female,1,No,No,Yes,Yes,2,No,No,No,No,Yes,No,2,No,Electronic check,84.45
-Male,1,Yes,No,Yes,Yes,0,No,No,No,No,No,No,1,Yes,Electronic check,51.6
-Male,0,Yes,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),56.6
-Male,0,No,Yes,Yes,No,0,No,No,No,No,No,Yes,1,Yes,Electronic check,55.3
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,0,No,Electronic check,105.55
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,44.35
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.7
-Female,0,No,No,Yes,Yes,2,No,No,Yes,No,No,Yes,1,No,Mailed check,89.2
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Credit card (automatic),20.35
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.8
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),25.0
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,Yes,Yes,No,1,No,Electronic check,72.25
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.0
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,No,Yes,No,Yes,2,Yes,Bank transfer (automatic),75.75
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Electronic check,20.3
-Female,0,No,No,Yes,No,0,Yes,Yes,No,No,No,No,0,No,Bank transfer (automatic),52.85
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,2,Yes,Credit card (automatic),69.35
-Male,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Mailed check,51.0
-Female,0,No,No,Yes,No,2,No,Yes,No,Yes,Yes,Yes,1,Yes,Electronic check,97.9
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.9
-Male,0,Yes,No,No,No phone service,0,Yes,No,No,No,Yes,No,1,Yes,Bank transfer (automatic),40.15
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,45.35
-Male,0,Yes,Yes,Yes,No,2,No,No,No,No,No,Yes,2,No,Bank transfer (automatic),78.95
-Male,1,Yes,No,Yes,Yes,2,No,Yes,No,Yes,Yes,Yes,1,Yes,Electronic check,105.8
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Bank transfer (automatic),20.15
-Male,1,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.35
-Female,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Credit card (automatic),75.1
-Male,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,No,No,1,Yes,Mailed check,43.25
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,No,Yes,No,No,1,Yes,Credit card (automatic),66.4
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Credit card (automatic),19.0
-Male,1,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),115.75
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,No,No,No,Yes,2,No,Bank transfer (automatic),65.2
-Male,0,Yes,No,Yes,Yes,0,No,Yes,Yes,No,No,No,0,No,Credit card (automatic),59.5
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,No,Yes,No,Yes,0,Yes,Bank transfer (automatic),100.55
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.25
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.3
-Female,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.6
-Male,0,Yes,No,Yes,Yes,0,No,No,No,No,No,No,1,No,Electronic check,49.9
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),21.1
-Female,1,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,103.3
-Male,0,Yes,Yes,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),109.3
-Female,0,Yes,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.9
-Male,0,No,No,Yes,Yes,0,Yes,No,No,No,No,Yes,1,No,Bank transfer (automatic),65.75
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,Yes,No,Yes,2,No,Bank transfer (automatic),97.75
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,20.2
-Male,0,Yes,Yes,Yes,Yes,0,No,No,No,No,Yes,No,1,No,Electronic check,60.35
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,77.0
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.9
-Female,0,No,No,No,No phone service,0,No,No,No,Yes,No,No,1,Yes,Electronic check,31.2
-Male,0,No,Yes,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Electronic check,49.4
-Male,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),63.9
-Male,0,No,No,No,No phone service,0,No,No,Yes,No,No,No,1,Yes,Electronic check,29.65
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,110.15
-Female,0,Yes,Yes,Yes,No,0,No,No,No,No,Yes,No,1,No,Electronic check,56.15
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Bank transfer (automatic),19.35
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,No,1,No,Credit card (automatic),96.6
-Female,0,Yes,Yes,No,No phone service,0,Yes,Yes,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),48.7
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),114.2
-Male,0,No,No,Yes,No,0,No,Yes,No,Yes,Yes,No,1,Yes,Electronic check,66.65
-Female,0,Yes,Yes,Yes,No,0,Yes,No,No,Yes,No,No,2,Yes,Bank transfer (automatic),54.95
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,20.7
-Male,0,No,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),25.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),19.9
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.85
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,103.45
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.35
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),20.05
-Female,0,No,No,Yes,Yes,2,Yes,No,No,No,No,No,1,Yes,Electronic check,79.8
-Female,0,Yes,Yes,Yes,No,0,No,No,Yes,No,Yes,No,1,Yes,Mailed check,59.85
-Male,1,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,2,Yes,Bank transfer (automatic),101.9
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.05
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,110.85
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),113.05
-Male,0,Yes,No,Yes,Yes,0,No,No,Yes,Yes,No,Yes,2,No,Credit card (automatic),69.0
-Male,0,No,No,Yes,No,0,Yes,No,Yes,No,No,Yes,1,No,Electronic check,67.45
-Male,0,Yes,Yes,Yes,No,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),69.75
-Male,1,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),23.95
-Female,0,No,No,Yes,Yes,2,Yes,Yes,No,Yes,Yes,Yes,0,No,Credit card (automatic),110.25
-Male,0,No,No,Yes,Yes,2,Yes,Yes,No,No,No,No,1,Yes,Electronic check,86.4
-Male,1,Yes,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,Yes,Credit card (automatic),100.05
-Female,1,No,No,Yes,No,0,Yes,Yes,No,Yes,No,No,1,No,Credit card (automatic),59.9
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,18.7
-Male,0,Yes,No,Yes,Yes,0,Yes,No,No,Yes,Yes,Yes,2,No,Credit card (automatic),80.45
-Male,0,Yes,No,Yes,No,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),83.85
-Female,0,Yes,No,No,No phone service,0,Yes,No,Yes,Yes,No,Yes,1,Yes,Bank transfer (automatic),49.9
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),24.15
-Female,1,No,No,Yes,No,0,Yes,No,Yes,Yes,No,Yes,1,Yes,Mailed check,69.75
-Male,0,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,No,1,No,Electronic check,95.5
-Female,0,Yes,Yes,No,No phone service,0,No,No,No,No,No,No,1,No,Mailed check,25.05
-Female,0,No,No,Yes,No,0,Yes,No,Yes,Yes,No,No,2,Yes,Credit card (automatic),60.35
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,89.5
-Female,0,Yes,No,Yes,Yes,2,No,No,No,Yes,Yes,No,1,Yes,Electronic check,88.85
-Female,1,No,No,Yes,Yes,2,Yes,Yes,No,Yes,Yes,No,2,Yes,Credit card (automatic),99.65
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),85.0
-Female,1,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),89.55
-Male,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,No,Credit card (automatic),71.55
-Male,0,No,No,Yes,Yes,0,No,No,No,No,Yes,Yes,1,Yes,Credit card (automatic),72.15
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,No,Yes,No,2,No,Electronic check,69.45
-Female,0,No,No,Yes,Yes,0,Yes,No,No,No,No,Yes,1,Yes,Electronic check,66.1
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),103.95
-Female,0,No,No,Yes,Yes,2,No,No,Yes,Yes,No,Yes,1,Yes,Bank transfer (automatic),95.05
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,No,No,1,No,Electronic check,90.8
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,2,No,Electronic check,98.9
-Female,0,Yes,Yes,Yes,Yes,0,No,Yes,No,Yes,Yes,No,1,Yes,Credit card (automatic),69.5
-Female,0,No,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Electronic check,25.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.65
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,106.35
-Male,0,No,No,Yes,Yes,0,No,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),86.55
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.45
-Male,0,No,No,Yes,No,0,No,No,No,No,No,Yes,1,No,Mailed check,55.55
-Female,0,No,Yes,No,No phone service,0,Yes,No,No,Yes,No,No,0,No,Bank transfer (automatic),35.05
-Male,1,No,No,Yes,No,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),101.45
-Female,0,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,No,Yes,1,Yes,Bank transfer (automatic),95.5
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,20.45
-Male,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,0,No,Mailed check,68.15
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,70.2
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,Yes,Yes,No,1,Yes,Credit card (automatic),96.95
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Bank transfer (automatic),109.0
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,No,No,No,1,Yes,Bank transfer (automatic),85.2
-Female,0,Yes,Yes,Yes,No,2,No,No,Yes,No,No,No,0,No,Electronic check,76.05
-Female,0,Yes,No,Yes,No,2,No,No,No,No,No,Yes,1,No,Electronic check,80.4
-Female,0,No,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),88.95
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,25.25
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),24.45
-Female,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,Yes,Electronic check,100.15
-Female,0,Yes,Yes,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),63.8
-Female,0,Yes,Yes,No,No phone service,0,Yes,Yes,No,Yes,No,Yes,2,Yes,Bank transfer (automatic),50.7
-Male,0,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Bank transfer (automatic),103.65
-Female,0,No,No,Yes,Yes,0,No,No,No,Yes,Yes,No,1,Yes,Mailed check,64.4
-Male,0,No,Yes,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.0
-Male,0,No,Yes,Yes,Yes,2,No,No,No,No,No,No,1,No,Credit card (automatic),75.2
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,No,2,Yes,Electronic check,94.65
-Female,1,No,No,Yes,Yes,0,No,No,No,No,No,No,1,No,Mailed check,48.75
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,0,Yes,Electronic check,89.55
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,19.2
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),109.75
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),64.35
-Female,1,Yes,No,Yes,No,0,No,Yes,No,No,No,No,1,No,Credit card (automatic),50.15
-Male,0,Yes,No,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),109.75
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,106.5
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,43.8
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.65
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Mailed check,45.55
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,20.75
-Male,1,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,46.3
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,100.0
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),20.0
-Male,1,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),116.05
-Female,0,Yes,Yes,Yes,No,2,No,Yes,No,Yes,No,Yes,1,Yes,Credit card (automatic),89.65
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,24.85
-Female,0,Yes,No,No,No phone service,0,No,Yes,Yes,No,No,No,2,No,Mailed check,34.7
-Female,1,No,No,Yes,No,0,No,Yes,Yes,No,No,No,1,Yes,Electronic check,54.8
-Female,0,Yes,No,Yes,Yes,2,Yes,No,No,No,Yes,No,1,Yes,Bank transfer (automatic),89.8
-Female,1,No,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),105.35
-Male,0,Yes,Yes,Yes,No,0,No,Yes,No,Yes,Yes,No,1,No,Credit card (automatic),65.0
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),111.75
-Female,0,No,No,Yes,No,0,No,No,No,Yes,Yes,Yes,1,No,Mailed check,70.5
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.45
-Male,1,Yes,No,Yes,Yes,2,Yes,No,Yes,No,No,No,2,Yes,Electronic check,85.9
-Male,0,Yes,No,Yes,Yes,2,No,No,No,Yes,No,No,1,Yes,Bank transfer (automatic),79.65
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,24.9
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.85
-Male,0,No,No,Yes,No,0,No,No,Yes,Yes,No,No,1,No,Electronic check,56.15
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),90.3
-Female,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,No,Bank transfer (automatic),101.25
-Female,0,Yes,Yes,Yes,No,0,Yes,No,Yes,No,No,No,2,No,Credit card (automatic),54.75
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,No,Electronic check,73.6
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,No,Electronic check,79.85
-Male,0,Yes,No,Yes,Yes,0,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,79.8
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Credit card (automatic),80.15
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Electronic check,20.0
-Male,1,No,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),113.8
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Bank transfer (automatic),80.15
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,104.3
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,Yes,No,No,1,Yes,Credit card (automatic),85.2
-Male,0,Yes,No,Yes,No,2,No,No,No,No,Yes,Yes,2,Yes,Bank transfer (automatic),90.65
-Female,0,No,No,No,No phone service,0,Yes,No,No,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),54.55
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,Yes,1,No,Mailed check,35.05
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.15
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),25.95
-Male,1,Yes,No,Yes,Yes,0,Yes,Yes,Yes,No,Yes,Yes,0,No,Credit card (automatic),84.45
-Male,0,No,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,Yes,Mailed check,99.0
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),20.0
-Female,0,No,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.3
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,No,No,No,1,Yes,Electronic check,85.3
-Male,0,No,No,Yes,No,0,No,No,Yes,No,No,Yes,2,Yes,Electronic check,61.1
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),25.65
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Electronic check,81.15
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.3
-Male,0,Yes,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,1,Yes,Mailed check,68.95
-Male,0,Yes,No,Yes,Yes,0,No,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),84.2
-Female,0,Yes,No,Yes,No,0,No,Yes,Yes,Yes,No,Yes,2,No,Bank transfer (automatic),70.25
-Female,0,No,No,Yes,Yes,0,No,Yes,No,No,No,No,2,Yes,Electronic check,55.25
-Male,0,Yes,No,Yes,No,2,Yes,Yes,No,No,No,Yes,2,Yes,Credit card (automatic),90.6
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.75
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,No,Yes,Yes,No,1,Yes,Electronic check,76.2
-Female,0,Yes,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,0,Yes,Credit card (automatic),105.0
-Male,0,No,No,Yes,No,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,85.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.25
-Female,0,No,Yes,No,No phone service,0,Yes,No,No,Yes,No,Yes,1,No,Mailed check,45.8
-Male,0,No,No,No,No phone service,0,No,Yes,Yes,No,No,Yes,2,Yes,Bank transfer (automatic),43.75
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,No,No,2,No,Credit card (automatic),43.7
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.75
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),108.9
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Mailed check,89.85
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.4
-Male,0,No,Yes,Yes,Yes,2,No,No,Yes,No,Yes,Yes,0,No,Bank transfer (automatic),99.7
-Female,0,No,No,Yes,No,0,No,Yes,No,No,No,No,1,Yes,Mailed check,49.6
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Credit card (automatic),20.35
-Male,0,No,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),24.1
-Male,0,No,No,No,No phone service,0,No,Yes,No,Yes,No,Yes,1,Yes,Mailed check,44.65
-Female,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,No,No,0,No,Mailed check,38.9
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.05
-Female,0,No,No,Yes,Yes,0,Yes,No,No,No,No,No,2,No,Mailed check,54.45
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,105.5
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,102.4
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.3
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,No,No,Yes,1,Yes,Bank transfer (automatic),93.4
-Male,1,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.7
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.55
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),20.1
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,No,Electronic check,101.15
-Female,0,Yes,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),104.4
-Female,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Electronic check,89.2
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,45.65
-Female,0,No,No,Yes,No,2,No,No,Yes,No,No,Yes,1,No,Electronic check,83.9
-Male,0,No,No,Yes,Yes,2,No,Yes,No,Yes,Yes,Yes,2,Yes,Electronic check,104.25
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.05
-Male,1,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Credit card (automatic),96.15
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),99.85
-Female,1,No,No,Yes,Yes,0,No,Yes,No,No,No,No,1,Yes,Credit card (automatic),56.55
-Female,0,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),105.95
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.0
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),105.75
-Female,0,Yes,No,Yes,No,2,No,Yes,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),94.65
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),98.7
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.35
-Female,1,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,96.15
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Mailed check,70.8
-Female,0,No,No,Yes,No,2,Yes,No,Yes,No,Yes,No,1,Yes,Bank transfer (automatic),89.4
-Female,0,No,No,Yes,No,2,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,106.45
-Male,1,No,No,Yes,Yes,2,No,No,Yes,No,No,No,1,Yes,Electronic check,79.85
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.2
-Female,1,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,78.85
-Male,1,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,90.5
-Female,1,Yes,No,No,No phone service,0,No,Yes,Yes,No,Yes,Yes,1,No,Credit card (automatic),55.55
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,111.15
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,Yes,No,Yes,0,Yes,Credit card (automatic),97.75
-Female,0,Yes,Yes,No,No phone service,0,No,Yes,Yes,Yes,Yes,No,0,No,Credit card (automatic),51.35
-Female,0,No,No,Yes,No,2,Yes,No,No,Yes,No,Yes,1,Yes,Electronic check,89.05
-Male,1,No,Yes,Yes,No,0,No,Yes,No,Yes,No,No,1,Yes,Electronic check,54.55
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),25.3
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Credit card (automatic),94.65
-Male,0,No,Yes,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Mailed check,49.9
-Male,0,No,No,Yes,No,2,No,Yes,No,Yes,Yes,No,1,No,Mailed check,89.65
-Male,0,No,No,Yes,Yes,2,Yes,Yes,No,Yes,No,Yes,2,No,Electronic check,102.0
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),77.15
-Male,1,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,101.9
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.25
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),25.0
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,No,Yes,Yes,No,2,Yes,Mailed check,95.15
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.4
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,No,No,Yes,2,No,Credit card (automatic),72.45
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.35
-Male,0,Yes,Yes,Yes,No,2,Yes,Yes,Yes,No,No,Yes,2,Yes,Electronic check,96.1
-Male,1,Yes,No,Yes,Yes,2,No,No,Yes,No,No,Yes,1,Yes,Credit card (automatic),91.05
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.5
-Male,1,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,84.35
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,Yes,Yes,Yes,0,No,Bank transfer (automatic),82.85
-Male,0,Yes,Yes,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),75.75
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),89.9
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.4
-Male,0,No,No,Yes,No,2,No,No,Yes,No,No,No,1,Yes,Credit card (automatic),73.6
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,24.55
-Male,0,Yes,No,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Credit card (automatic),94.7
-Male,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Electronic check,86.1
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),104.1
-Female,0,No,No,Yes,Yes,0,Yes,Yes,No,Yes,No,Yes,0,No,Mailed check,74.05
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.15
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),114.05
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,Yes,Yes,No,2,Yes,Credit card (automatic),94.7
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.4
-Female,1,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),98.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.55
-Male,1,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Bank transfer (automatic),109.55
-Female,1,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,45.1
-Male,0,No,Yes,Yes,No,0,No,No,Yes,No,No,No,1,Yes,Electronic check,49.85
-Female,0,No,No,Yes,No,0,No,No,Yes,Yes,No,Yes,2,No,Credit card (automatic),64.9
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,88.45
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.95
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.8
-Female,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Bank transfer (automatic),50.55
-Male,0,No,No,Yes,No,2,No,Yes,Yes,Yes,No,No,2,Yes,Electronic check,85.2
-Male,0,Yes,No,Yes,No,2,No,No,Yes,Yes,No,Yes,1,Yes,Electronic check,90.35
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,No,No,No,0,Yes,Bank transfer (automatic),54.2
-Male,0,Yes,No,Yes,No,2,No,Yes,Yes,Yes,No,Yes,1,No,Credit card (automatic),94.15
-Male,0,No,No,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Electronic check,109.3
-Female,1,No,No,Yes,No,2,No,No,Yes,No,No,No,1,No,Electronic check,74.4
-Male,0,Yes,No,Yes,No,2,Yes,No,Yes,Yes,No,No,2,Yes,Bank transfer (automatic),84.25
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),21.0
-Male,0,No,Yes,Yes,No,0,No,Yes,Yes,No,Yes,No,2,No,Credit card (automatic),64.5
-Male,0,No,No,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),87.1
-Male,0,No,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,No,Electronic check,100.75
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.8
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,20.45
-Female,0,No,No,Yes,No,0,Yes,Yes,No,No,No,No,1,No,Electronic check,55.2
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,20.85
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.9
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),24.05
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),19.65
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Bank transfer (automatic),19.8
-Male,0,No,No,Yes,Yes,2,Yes,No,No,No,No,No,1,Yes,Electronic check,80.1
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Bank transfer (automatic),19.5
-Female,0,Yes,No,Yes,No,2,Yes,No,Yes,No,No,Yes,1,Yes,Mailed check,88.9
-Male,1,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,No,1,Yes,Bank transfer (automatic),96.6
-Male,0,No,No,No,No phone service,0,Yes,Yes,No,No,No,Yes,1,Yes,Bank transfer (automatic),44.65
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Mailed check,70.7
-Female,1,No,No,Yes,Yes,2,Yes,Yes,No,No,Yes,Yes,1,Yes,Mailed check,102.8
-Male,1,Yes,No,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Credit card (automatic),95.5
-Male,1,Yes,No,Yes,No,2,Yes,Yes,Yes,Yes,Yes,No,2,Yes,Credit card (automatic),98.15
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,No,Electronic check,78.45
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Electronic check,109.25
-Female,1,No,No,Yes,No,2,No,Yes,No,No,Yes,No,1,Yes,Electronic check,84.7
-Male,1,Yes,No,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,93.15
-Male,0,No,No,Yes,Yes,0,No,No,Yes,No,Yes,Yes,0,Yes,Bank transfer (automatic),77.8
-Female,0,No,No,No,No phone service,0,Yes,Yes,No,No,No,No,1,Yes,Electronic check,33.65
-Female,0,No,No,Yes,Yes,0,No,No,Yes,Yes,No,Yes,2,Yes,Electronic check,68.6
-Male,1,No,No,No,No phone service,0,No,No,No,No,No,Yes,1,Yes,Bank transfer (automatic),34.65
-Male,0,Yes,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),95.0
-Female,0,No,No,Yes,Yes,0,No,No,No,Yes,Yes,Yes,2,Yes,Mailed check,75.85
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.25
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),24.0
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),114.75
-Female,0,No,No,No,No phone service,0,Yes,No,No,No,No,No,1,No,Mailed check,29.9
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.4
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),19.75
-Female,0,Yes,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Electronic check,49.15
-Male,0,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),106.5
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Mailed check,63.4
-Male,0,No,No,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,1,Yes,Credit card (automatic),108.45
-Male,0,No,No,Yes,Yes,2,Yes,Yes,No,No,No,No,1,Yes,Credit card (automatic),86.65
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,88.95
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,20.25
-Male,0,No,No,Yes,No,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),105.65
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,44.6
-Female,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,No,Credit card (automatic),80.15
-Female,0,No,No,Yes,Yes,0,No,No,No,Yes,Yes,Yes,2,Yes,Mailed check,73.75
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),103.85
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.3
-Male,0,Yes,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,70.0
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.35
-Male,0,No,No,Yes,No,2,Yes,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,105.5
-Male,1,Yes,No,Yes,No,2,Yes,Yes,No,Yes,No,No,0,Yes,Credit card (automatic),84.8
-Female,0,No,No,Yes,No,0,No,Yes,No,No,No,No,1,No,Electronic check,49.95
-Female,0,No,No,No,No phone service,0,No,No,No,No,Yes,No,1,Yes,Credit card (automatic),34.8
-Female,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Bank transfer (automatic),24.7
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.7
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),19.95
-Female,0,No,No,Yes,Yes,2,Yes,No,No,No,No,No,1,Yes,Bank transfer (automatic),79.0
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),94.7
-Male,1,Yes,No,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Credit card (automatic),80.3
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,100.6
-Female,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,No,Electronic check,49.4
-Female,0,No,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),116.15
-Female,1,Yes,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Bank transfer (automatic),104.05
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),93.2
-Male,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,101.1
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.4
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,No,Yes,No,2,Yes,Credit card (automatic),78.35
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Electronic check,19.8
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Bank transfer (automatic),19.25
-Male,0,Yes,Yes,Yes,No,0,No,No,Yes,No,No,Yes,1,No,Electronic check,57.45
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),104.45
-Male,1,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),19.35
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),24.9
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,0,Yes,Bank transfer (automatic),96.9
-Female,0,Yes,No,Yes,No,0,Yes,Yes,No,Yes,No,No,0,No,Bank transfer (automatic),59.85
-Male,1,Yes,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),64.45
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),80.85
-Male,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,No,Yes,0,No,Bank transfer (automatic),48.4
-Male,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),61.2
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Electronic check,81.3
-Female,0,No,No,Yes,Yes,0,Yes,No,No,No,No,No,1,Yes,Mailed check,55.7
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,Yes,No,No,2,Yes,Electronic check,89.55
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.75
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,No,Electronic check,85.35
-Male,0,No,No,Yes,No,0,No,Yes,No,Yes,No,No,2,Yes,Credit card (automatic),55.15
-Female,0,No,Yes,Yes,Yes,2,No,Yes,No,No,Yes,No,1,No,Mailed check,89.6
-Male,0,Yes,No,Yes,No,2,No,No,No,Yes,Yes,Yes,1,Yes,Credit card (automatic),95.7
-Female,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Electronic check,79.15
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.3
-Male,0,No,No,Yes,Yes,2,No,Yes,No,Yes,No,Yes,1,No,Electronic check,95.7
-Female,0,No,Yes,Yes,No,2,Yes,Yes,No,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),105.2
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,19.7
-Female,0,No,No,Yes,No,2,Yes,Yes,Yes,Yes,No,Yes,0,No,Mailed check,99.5
-Female,0,No,No,Yes,No,2,No,No,Yes,No,Yes,Yes,0,No,Electronic check,95.8
-Male,0,Yes,Yes,No,No phone service,0,No,No,Yes,Yes,No,No,2,Yes,Mailed check,36.25
-Male,1,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,No,Mailed check,105.95
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Credit card (automatic),90.4
-Female,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),91.05
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,2,Yes,Bank transfer (automatic),94.0
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Bank transfer (automatic),44.9
-Male,1,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,No,Electronic check,100.6
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Bank transfer (automatic),20.2
-Male,0,No,No,No,No phone service,0,Yes,Yes,No,No,No,Yes,0,No,Bank transfer (automatic),46.2
-Female,1,Yes,Yes,Yes,No,2,No,No,No,No,No,No,1,No,Bank transfer (automatic),70.55
-Female,0,Yes,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,45.0
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,No,Bank transfer (automatic),95.65
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,No,No,No,2,Yes,Mailed check,55.85
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,No,Yes,Yes,Yes,0,Yes,Credit card (automatic),108.95
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.9
-Male,0,Yes,No,Yes,No,2,Yes,No,No,No,Yes,Yes,1,Yes,Electronic check,93.6
-Female,0,No,No,No,No phone service,0,No,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),56.4
-Male,0,Yes,No,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),109.5
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,93.85
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.3
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,No,Yes,No,No,1,Yes,Electronic check,34.5
-Male,0,Yes,Yes,Yes,Yes,2,No,No,No,No,Yes,No,1,No,Electronic check,84.5
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),115.5
-Male,1,No,No,Yes,No,0,No,No,Yes,No,No,No,1,No,Electronic check,50.35
-Male,1,Yes,Yes,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,103.95
-Male,1,Yes,No,Yes,Yes,2,Yes,No,Yes,No,Yes,No,1,Yes,Bank transfer (automatic),93.8
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,Yes,No,No,2,No,Mailed check,59.6
-Male,0,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),81.0
-Female,0,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Credit card (automatic),74.1
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.7
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Bank transfer (automatic),80.5
-Female,0,No,No,Yes,Yes,2,No,No,Yes,Yes,No,No,1,Yes,Electronic check,82.75
-Male,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Mailed check,50.7
-Female,0,Yes,Yes,No,No phone service,0,No,No,No,No,No,No,1,Yes,Electronic check,24.7
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,45.15
-Female,1,Yes,No,Yes,No,2,Yes,No,No,No,Yes,Yes,1,Yes,Electronic check,95.1
-Male,0,Yes,No,Yes,Yes,2,Yes,No,Yes,No,No,No,1,Yes,Credit card (automatic),84.8
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Credit card (automatic),45.8
-Male,0,No,No,Yes,No,0,No,No,No,No,Yes,No,1,No,Credit card (automatic),53.4
-Female,1,No,No,Yes,No,2,No,Yes,No,No,No,No,1,No,Electronic check,72.75
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.6
-Male,0,Yes,Yes,Yes,No,2,No,Yes,Yes,No,No,No,1,No,Bank transfer (automatic),82.05
-Female,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,No,Bank transfer (automatic),100.55
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.05
-Male,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,No,Electronic check,47.95
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,No,No,Yes,Yes,1,Yes,Credit card (automatic),99.55
-Male,0,No,Yes,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Mailed check,81.85
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),18.4
-Male,0,No,No,No,No phone service,0,No,Yes,No,Yes,No,No,1,No,Electronic check,35.75
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,No,Yes,Yes,No,2,No,Mailed check,77.5
-Male,0,Yes,No,Yes,Yes,0,Yes,Yes,No,Yes,Yes,Yes,0,No,Electronic check,85.25
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),109.7
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,No,Yes,No,No,1,No,Bank transfer (automatic),35.4
-Female,0,No,No,Yes,No,2,No,Yes,No,No,Yes,Yes,1,No,Electronic check,95.4
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Electronic check,110.75
-Female,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Electronic check,90.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.3
-Female,0,No,No,Yes,Yes,0,No,Yes,No,No,No,No,1,No,Mailed check,54.15
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.5
-Female,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,24.2
-Male,0,Yes,Yes,No,No phone service,0,No,No,No,No,No,No,2,Yes,Credit card (automatic),25.25
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,43.75
-Female,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,25.75
-Female,0,Yes,No,Yes,No,0,No,No,No,No,Yes,No,1,No,Mailed check,55.2
-Male,1,Yes,No,Yes,Yes,2,No,Yes,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),95.35
-Female,0,No,No,Yes,No,0,No,Yes,No,Yes,Yes,No,1,Yes,Electronic check,65.45
-Male,0,Yes,Yes,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Mailed check,81.0
-Female,1,No,No,Yes,Yes,2,No,Yes,No,No,Yes,No,1,Yes,Electronic check,91.3
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.4
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.95
-Female,0,No,No,Yes,No,0,Yes,No,No,No,No,No,2,Yes,Electronic check,47.85
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),19.45
-Female,0,No,No,Yes,No,0,Yes,No,Yes,Yes,No,No,2,Yes,Credit card (automatic),60.25
-Female,1,Yes,No,Yes,No,0,No,No,Yes,No,No,Yes,2,No,Mailed check,60.7
-Female,0,Yes,Yes,Yes,No,2,Yes,No,Yes,No,Yes,Yes,1,No,Bank transfer (automatic),100.7
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,45.75
-Male,0,Yes,No,No,No phone service,0,No,No,No,No,Yes,Yes,1,Yes,Electronic check,45.9
-Female,0,Yes,No,Yes,No,0,No,No,No,No,No,No,2,No,Electronic check,43.8
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.65
-Female,0,No,No,No,No phone service,0,No,No,No,No,Yes,Yes,2,Yes,Credit card (automatic),44.85
-Female,0,Yes,No,No,No phone service,0,No,Yes,Yes,No,No,No,1,Yes,Credit card (automatic),35.65
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),92.0
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.45
-Female,0,No,No,Yes,No,2,Yes,No,No,No,No,No,1,Yes,Electronic check,74.55
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,20.15
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,Yes,No,No,0,Yes,Credit card (automatic),64.15
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,24.3
-Male,0,Yes,Yes,Yes,No,2,No,Yes,No,Yes,No,No,1,No,Electronic check,79.4
-Male,0,No,No,Yes,No,0,No,No,Yes,No,No,Yes,1,No,Mailed check,61.65
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.1
-Male,0,No,Yes,Yes,No,0,Yes,No,No,No,Yes,Yes,1,Yes,Mailed check,69.85
-Female,0,Yes,Yes,Yes,No,0,Yes,No,No,No,Yes,No,0,Yes,Electronic check,59.75
-Male,0,No,No,Yes,No,0,Yes,Yes,Yes,No,No,No,2,No,Mailed check,61.2
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.7
-Female,1,No,Yes,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,Yes,Electronic check,101.3
-Female,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),97.85
-Male,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,No,No,1,No,Mailed check,41.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.1
-Male,1,Yes,No,No,No phone service,0,Yes,No,No,No,No,Yes,1,No,Bank transfer (automatic),39.1
-Male,0,No,No,Yes,No,0,No,Yes,No,Yes,No,Yes,1,Yes,Bank transfer (automatic),65.6
-Female,0,Yes,No,Yes,No,2,No,Yes,No,No,No,No,1,No,Bank transfer (automatic),75.35
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,18.8
-Male,0,No,No,Yes,Yes,0,Yes,No,Yes,No,No,No,1,Yes,Electronic check,59.6
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,No,No,0,Yes,Credit card (automatic),75.65
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,No,Electronic check,79.55
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,No,1,Yes,Mailed check,50.15
-Female,0,Yes,No,Yes,No,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Credit card (automatic),100.05
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,19.75
-Male,1,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.45
-Male,1,Yes,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,No,Credit card (automatic),90.05
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.55
-Female,0,No,No,Yes,No,0,Yes,No,No,No,Yes,Yes,1,Yes,Electronic check,70.75
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,89.1
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),99.7
-Male,0,No,No,Yes,Yes,0,Yes,No,No,Yes,Yes,Yes,0,Yes,Credit card (automatic),79.75
-Female,0,Yes,Yes,Yes,No,0,No,Yes,Yes,No,Yes,Yes,2,No,Credit card (automatic),78.0
-Male,0,No,No,Yes,No,2,Yes,Yes,No,No,Yes,Yes,2,No,Bank transfer (automatic),99.15
-Female,1,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Mailed check,25.8
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),94.8
-Male,1,No,No,Yes,Yes,0,Yes,Yes,No,No,Yes,No,1,Yes,Bank transfer (automatic),70.35
-Female,1,No,No,Yes,Yes,2,No,No,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),89.6
-Female,0,No,No,Yes,Yes,0,Yes,No,Yes,Yes,No,No,2,No,Electronic check,64.75
-Male,0,No,No,Yes,No,0,No,No,No,No,No,Yes,1,Yes,Electronic check,55.25
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),23.15
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,Yes,1,Yes,Mailed check,58.95
-Male,1,No,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,74.7
-Female,0,No,Yes,Yes,No,2,No,No,No,No,No,No,1,No,Bank transfer (automatic),69.0
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,19.15
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,20.55
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,103.95
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),92.2
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.2
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.85
-Male,1,Yes,No,Yes,Yes,0,Yes,Yes,No,No,No,No,2,No,Credit card (automatic),60.0
-Female,0,No,No,Yes,No,2,No,No,Yes,No,No,No,1,Yes,Electronic check,75.8
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,No,Yes,Yes,Yes,0,No,Electronic check,78.45
-Male,0,Yes,Yes,Yes,No,0,No,No,No,Yes,No,Yes,1,No,Credit card (automatic),61.45
-Female,0,No,No,No,No phone service,0,No,Yes,No,No,No,Yes,1,No,Electronic check,40.75
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.05
-Male,0,No,No,Yes,Yes,0,No,No,Yes,No,No,No,0,No,Credit card (automatic),54.15
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,19.65
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.6
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.0
-Female,0,No,No,Yes,Yes,0,Yes,No,Yes,No,No,No,2,No,Mailed check,59.0
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,46.0
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),90.15
-Female,0,No,No,Yes,Yes,2,Yes,No,No,Yes,No,No,1,Yes,Electronic check,84.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.4
-Female,0,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),69.2
-Male,0,No,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,2,No,Electronic check,104.0
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,0,Yes,Bank transfer (automatic),49.8
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),108.05
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,No,No,No,0,No,Electronic check,64.35
-Female,0,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,Yes,Yes,2,Yes,Electronic check,79.15
-Female,0,No,Yes,No,No phone service,0,No,Yes,No,Yes,Yes,No,0,No,Mailed check,45.25
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.85
-Male,0,Yes,Yes,Yes,No,0,No,No,Yes,No,No,No,2,No,Mailed check,50.35
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),103.2
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.55
-Male,1,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,69.35
-Female,0,Yes,Yes,Yes,No,2,No,Yes,Yes,No,Yes,No,1,Yes,Electronic check,91.55
-Male,0,No,No,Yes,Yes,2,No,Yes,No,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),104.7
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,24.2
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,No,Bank transfer (automatic),25.05
-Male,0,No,No,No,No phone service,0,Yes,Yes,No,Yes,No,No,1,No,Mailed check,42.4
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,19.75
-Male,0,No,No,Yes,No,2,No,No,No,Yes,No,No,1,Yes,Electronic check,74.25
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.45
-Female,0,No,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),82.45
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,0,Yes,Credit card (automatic),106.1
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Bank transfer (automatic),20.1
-Female,0,No,No,Yes,No,0,Yes,Yes,No,Yes,No,No,2,Yes,Electronic check,59.9
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,20.05
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.15
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.65
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,No,No,Yes,No,1,No,Credit card (automatic),38.55
-Female,1,Yes,Yes,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.8
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,93.35
-Female,1,Yes,No,No,No phone service,0,No,No,No,No,Yes,Yes,1,No,Electronic check,45.3
-Male,0,No,No,No,No phone service,0,No,No,Yes,No,Yes,Yes,2,No,Electronic check,50.75
-Male,1,Yes,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,76.45
-Female,0,No,No,No,No phone service,0,No,Yes,No,Yes,No,No,1,No,Electronic check,36.25
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),19.8
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,105.9
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,24.45
-Female,0,Yes,Yes,No,No phone service,0,No,Yes,Yes,Yes,No,Yes,2,No,Bank transfer (automatic),51.0
-Male,0,Yes,No,Yes,No,0,No,No,No,Yes,No,No,1,No,Bank transfer (automatic),48.8
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Electronic check,80.25
-Female,1,Yes,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Electronic check,24.8
-Male,0,Yes,No,Yes,No,0,No,No,No,No,No,No,2,No,Electronic check,44.6
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.55
-Male,0,Yes,No,Yes,No,2,No,Yes,Yes,No,No,No,1,Yes,Electronic check,80.0
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,No,No,0,Yes,Bank transfer (automatic),94.25
-Female,1,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),70.2
-Female,0,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,104.2
-Female,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,No,1,Yes,Credit card (automatic),78.9
-Female,1,No,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),109.8
-Female,0,No,Yes,No,No phone service,0,No,No,No,No,No,No,1,No,Electronic check,25.2
-Female,0,Yes,Yes,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.8
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.7
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.05
-Male,0,Yes,Yes,Yes,No,2,Yes,Yes,No,No,No,Yes,2,Yes,Electronic check,90.8
-Female,0,No,No,Yes,Yes,0,Yes,No,No,Yes,No,No,1,Yes,Mailed check,59.05
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,81.0
-Male,0,Yes,Yes,Yes,No,2,No,No,No,No,Yes,Yes,2,No,Credit card (automatic),91.2
-Female,0,No,No,Yes,Yes,2,Yes,No,Yes,No,No,No,1,Yes,Credit card (automatic),84.35
-Male,0,No,No,Yes,Yes,2,Yes,Yes,No,No,No,No,2,Yes,Credit card (automatic),84.3
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.45
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,0,Yes,Electronic check,103.2
-Female,0,Yes,No,Yes,No,0,Yes,Yes,Yes,No,No,Yes,0,No,Bank transfer (automatic),71.0
-Female,0,Yes,Yes,Yes,No,0,No,Yes,No,No,Yes,Yes,2,Yes,Bank transfer (automatic),69.5
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),25.45
-Female,1,No,No,Yes,Yes,2,Yes,No,Yes,Yes,No,Yes,0,No,Credit card (automatic),101.3
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Electronic check,118.6
-Male,0,No,No,Yes,Yes,0,No,Yes,No,Yes,Yes,No,2,Yes,Electronic check,68.7
-Female,0,No,No,Yes,No,2,No,No,Yes,No,Yes,Yes,2,No,Mailed check,95.5
-Male,1,No,No,Yes,No,2,Yes,No,No,No,No,Yes,1,No,Mailed check,85.5
-Male,0,Yes,No,Yes,Yes,0,No,Yes,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),76.1
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.65
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,1,Yes,Credit card (automatic),102.95
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,Yes,Yes,No,1,No,Electronic check,100.75
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,Yes,1,Yes,Electronic check,60.15
-Female,0,No,Yes,Yes,Yes,0,Yes,Yes,No,Yes,Yes,No,1,Yes,Mailed check,75.9
-Male,0,No,No,Yes,No,2,No,Yes,Yes,Yes,No,Yes,1,Yes,Bank transfer (automatic),94.95
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Mailed check,90.6
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Bank transfer (automatic),20.7
-Female,0,No,No,Yes,Yes,0,No,No,No,No,Yes,Yes,2,Yes,Credit card (automatic),71.0
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,No,No,0,Yes,Mailed check,47.4
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,45.6
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.0
-Female,0,No,No,Yes,No,2,No,No,Yes,No,No,No,1,Yes,Mailed check,74.6
-Male,1,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,101.25
-Female,1,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Electronic check,48.2
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,0,No,Bank transfer (automatic),69.85
-Female,1,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,2,Yes,Credit card (automatic),101.5
-Male,0,Yes,No,No,No phone service,0,No,No,No,No,No,No,2,No,Bank transfer (automatic),24.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Credit card (automatic),19.3
-Male,1,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,110.45
-Male,0,Yes,No,Yes,No,2,Yes,Yes,Yes,Yes,No,Yes,0,No,Credit card (automatic),101.0
-Male,0,No,No,Yes,No,2,No,No,Yes,Yes,Yes,No,1,Yes,Mailed check,88.35
-Male,0,Yes,No,Yes,No,0,No,No,Yes,No,Yes,Yes,1,Yes,Mailed check,70.05
-Male,0,No,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,74.75
-Female,1,Yes,No,Yes,No,2,No,Yes,No,No,No,Yes,1,No,Electronic check,84.95
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.8
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,101.45
-Female,0,No,No,Yes,Yes,0,Yes,Yes,No,No,No,No,1,Yes,Credit card (automatic),59.75
-Male,0,Yes,Yes,Yes,Yes,0,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),81.95
-Male,1,Yes,No,Yes,Yes,0,Yes,No,Yes,Yes,No,Yes,0,No,Credit card (automatic),75.15
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),108.75
-Female,0,Yes,No,Yes,No,2,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Bank transfer (automatic),106.1
-Female,0,No,No,No,No phone service,0,Yes,Yes,No,Yes,No,Yes,0,Yes,Bank transfer (automatic),49.85
-Male,0,Yes,Yes,Yes,No,0,Yes,No,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),73.05
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.65
-Female,0,Yes,Yes,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),94.9
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),18.55
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Credit card (automatic),84.4
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,19.8
-Male,0,No,No,Yes,No,2,No,No,Yes,No,No,Yes,1,No,Credit card (automatic),85.7
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.5
-Female,0,No,No,Yes,No,2,No,No,No,Yes,No,Yes,1,Yes,Credit card (automatic),85.4
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),19.65
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,Yes,1,Yes,Electronic check,35.1
-Female,0,Yes,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Electronic check,24.45
-Female,0,Yes,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),81.85
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Electronic check,49.3
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,84.0
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,No,No,No,No,1,Yes,Credit card (automatic),59.45
-Female,1,Yes,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,Yes,Electronic check,101.25
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,No,No,0,Yes,Bank transfer (automatic),44.6
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.75
-Male,0,Yes,Yes,Yes,No,0,No,Yes,Yes,Yes,No,No,1,No,Bank transfer (automatic),61.8
-Male,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),88.8
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.7
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,Yes,No,No,2,No,Bank transfer (automatic),84.2
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.15
-Female,0,Yes,Yes,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Mailed check,49.4
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,94.2
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,18.85
-Female,1,No,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,0,Yes,Credit card (automatic),70.2
-Male,1,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,71.65
-Male,0,Yes,Yes,No,No phone service,0,Yes,Yes,Yes,Yes,No,Yes,0,Yes,Credit card (automatic),55.45
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Electronic check,90.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.5
-Female,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,Yes,Electronic check,100.0
-Female,0,Yes,Yes,No,No phone service,0,Yes,Yes,No,Yes,Yes,No,2,Yes,Bank transfer (automatic),51.25
-Female,0,No,No,Yes,No,2,No,No,Yes,Yes,No,No,1,No,Credit card (automatic),80.1
-Male,0,No,Yes,Yes,Yes,2,No,No,Yes,No,No,No,1,Yes,Credit card (automatic),80.55
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Bank transfer (automatic),19.75
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.2
-Female,0,No,Yes,No,No phone service,0,No,Yes,No,No,No,No,1,No,Mailed check,29.65
-Female,0,No,No,No,No phone service,0,No,No,No,Yes,No,No,1,No,Credit card (automatic),28.6
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,75.35
-Female,0,Yes,Yes,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),109.5
-Male,0,Yes,No,Yes,No,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Mailed check,84.45
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.7
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Credit card (automatic),25.1
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.25
-Female,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,No,Bank transfer (automatic),50.1
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.25
-Female,1,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.6
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.3
-Male,1,Yes,No,Yes,Yes,2,No,Yes,Yes,No,No,Yes,1,Yes,Electronic check,95.55
-Male,0,Yes,No,Yes,No,0,No,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,74.15
-Male,1,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.65
-Male,0,No,No,Yes,No,2,Yes,No,No,No,Yes,No,2,No,Mailed check,86.35
-Male,0,No,No,Yes,No,0,No,No,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),75.35
-Female,0,No,Yes,Yes,No,0,No,No,No,No,Yes,Yes,1,Yes,Mailed check,64.7
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Electronic check,19.9
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,Yes,Yes,Yes,1,No,Electronic check,103.7
-Female,1,No,No,Yes,No,0,Yes,Yes,No,No,No,No,1,No,Mailed check,54.85
-Female,0,Yes,No,Yes,Yes,2,No,No,No,Yes,No,Yes,1,Yes,Electronic check,90.25
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),19.4
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.8
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,105.2
-Male,0,No,No,Yes,No,2,Yes,No,Yes,No,Yes,No,1,No,Mailed check,89.8
-Male,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Mailed check,25.65
-Male,0,Yes,No,Yes,Yes,0,No,Yes,No,No,No,No,1,No,Credit card (automatic),56.8
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),88.7
-Female,0,No,No,Yes,No,0,No,No,No,No,Yes,Yes,1,Yes,Electronic check,64.75
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.65
-Male,1,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,0,No,Bank transfer (automatic),98.35
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,Yes,Yes,No,0,Yes,Bank transfer (automatic),75.75
-Male,0,Yes,No,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,2,Yes,Mailed check,108.5
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.4
-Male,0,No,No,Yes,No,2,Yes,No,No,Yes,No,Yes,2,Yes,Electronic check,89.2
-Female,0,Yes,No,Yes,No,0,No,No,Yes,Yes,No,No,1,No,Electronic check,54.25
-Male,0,No,No,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,2,No,Credit card (automatic),112.2
-Male,0,Yes,No,Yes,Yes,0,No,No,Yes,No,No,No,1,No,Credit card (automatic),55.55
-Male,0,No,No,Yes,No,2,Yes,Yes,Yes,No,No,No,1,Yes,Credit card (automatic),84.3
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,No,Yes,No,0,Yes,Bank transfer (automatic),95.9
-Male,0,Yes,Yes,Yes,No,0,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),44.6
-Male,0,Yes,Yes,Yes,No,0,Yes,No,Yes,No,Yes,No,0,No,Mailed check,64.25
-Male,1,Yes,Yes,Yes,Yes,2,No,Yes,No,No,Yes,Yes,2,No,Electronic check,99.0
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,107.5
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.75
-Male,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Mailed check,89.25
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),116.4
-Male,1,No,No,No,No phone service,0,No,Yes,Yes,No,No,Yes,1,Yes,Electronic check,43.3
-Male,0,No,No,Yes,Yes,0,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),88.6
-Female,0,No,Yes,Yes,Yes,2,No,Yes,No,No,Yes,No,1,Yes,Bank transfer (automatic),88.5
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.0
-Male,1,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),111.6
-Female,0,No,No,Yes,No,0,No,No,Yes,No,Yes,No,1,No,Electronic check,57.55
-Male,0,Yes,No,Yes,No,2,No,Yes,No,Yes,Yes,Yes,1,Yes,Electronic check,99.85
-Male,1,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,24.65
-Male,0,Yes,Yes,Yes,No,0,Yes,No,No,Yes,Yes,Yes,2,No,Electronic check,75.5
-Male,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,No,No,1,No,Mailed check,40.0
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,No,No,No,1,Yes,Bank transfer (automatic),84.8
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.35
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,No,Yes,Yes,0,No,Credit card (automatic),78.6
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.4
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Electronic check,79.35
-Female,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,No,Bank transfer (automatic),78.1
-Male,0,No,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Mailed check,80.25
-Male,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,No,Yes,No,2,Yes,Bank transfer (automatic),70.35
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,20.65
-Female,1,No,No,Yes,No,2,Yes,No,No,No,No,No,1,Yes,Bank transfer (automatic),75.4
-Male,0,No,No,Yes,Yes,2,Yes,No,No,Yes,No,No,1,No,Bank transfer (automatic),87.65
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),114.35
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,No,Electronic check,25.25
-Female,0,No,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Electronic check,80.6
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),100.25
-Female,1,Yes,Yes,Yes,Yes,0,Yes,No,Yes,Yes,Yes,No,2,No,Electronic check,76.25
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,104.85
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),104.1
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,No,1,No,Electronic check,50.7
-Male,0,No,Yes,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,75.35
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.1
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.05
-Male,0,Yes,No,Yes,No,0,Yes,Yes,Yes,No,No,No,2,No,Credit card (automatic),60.3
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.3
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,21.1
-Male,0,No,No,Yes,No,0,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),86.95
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,106.7
-Female,0,Yes,Yes,Yes,No,0,Yes,No,Yes,Yes,Yes,No,2,Yes,Bank transfer (automatic),70.75
-Female,1,No,No,Yes,No,2,No,Yes,No,No,Yes,Yes,2,No,Credit card (automatic),95.25
-Female,0,No,No,Yes,No,2,No,Yes,No,Yes,No,Yes,1,Yes,Electronic check,89.35
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Mailed check,71.1
-Female,1,Yes,No,Yes,Yes,0,Yes,Yes,No,Yes,No,No,1,Yes,Mailed check,63.55
-Female,0,Yes,Yes,No,No phone service,0,No,No,No,Yes,No,No,1,Yes,Credit card (automatic),29.5
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.85
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,19.1
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.0
-Female,0,No,No,Yes,Yes,2,Yes,Yes,No,No,No,No,1,No,Mailed check,84.25
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,110.45
-Male,0,No,Yes,Yes,No,0,No,No,No,Yes,Yes,Yes,2,Yes,Mailed check,72.1
-Female,1,No,No,Yes,Yes,0,Yes,No,No,No,No,No,1,Yes,Electronic check,55.6
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.2
-Male,0,No,No,No,No phone service,0,Yes,No,No,No,No,No,1,No,Mailed check,29.7
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,No,Yes,Yes,Yes,2,No,Credit card (automatic),80.3
-Female,0,Yes,Yes,No,No phone service,0,No,No,No,No,No,Yes,1,Yes,Credit card (automatic),35.5
-Female,0,No,No,Yes,No,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,86.3
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,99.95
-Male,1,Yes,No,Yes,Yes,2,Yes,Yes,No,No,No,Yes,1,No,Credit card (automatic),93.8
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,44.45
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,No,Electronic check,24.15
-Male,0,Yes,No,Yes,Yes,2,Yes,No,Yes,No,No,Yes,1,No,Electronic check,93.9
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,No,No,No,No,0,No,Bank transfer (automatic),79.05
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Bank transfer (automatic),105.7
-Female,0,Yes,No,Yes,No,2,Yes,No,No,Yes,No,No,1,Yes,Electronic check,80.15
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,19.95
-Female,0,Yes,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,94.3
-Female,0,Yes,No,Yes,No,2,No,Yes,No,Yes,Yes,Yes,0,Yes,Mailed check,100.05
-Male,0,Yes,No,No,No phone service,0,Yes,No,Yes,Yes,No,No,0,Yes,Credit card (automatic),39.15
-Male,0,Yes,Yes,Yes,No,0,No,Yes,Yes,Yes,No,No,1,Yes,Mailed check,61.9
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),113.25
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.25
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.8
-Male,1,Yes,No,No,No phone service,0,No,Yes,No,No,Yes,No,1,No,Electronic check,40.2
-Female,0,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,Yes,Electronic check,97.65
-Female,0,No,No,Yes,Yes,2,Yes,No,No,No,No,No,1,Yes,Credit card (automatic),81.3
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Electronic check,51.1
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,24.6
-Male,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,101.05
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.55
-Male,1,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.3
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,No,Yes,1,No,Electronic check,86.8
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.9
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,20.65
-Female,0,Yes,Yes,Yes,No,0,No,No,Yes,No,Yes,No,1,Yes,Credit card (automatic),58.35
-Male,0,Yes,Yes,Yes,No,0,No,Yes,No,Yes,Yes,Yes,2,Yes,Credit card (automatic),75.2
-Male,0,No,No,Yes,No,2,No,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),100.1
-Male,0,No,Yes,Yes,No,0,No,Yes,No,Yes,No,No,1,No,Electronic check,54.15
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,No,Credit card (automatic),100.35
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Bank transfer (automatic),106.15
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),60.95
-Male,0,No,No,Yes,Yes,0,No,No,No,Yes,Yes,No,1,Yes,Mailed check,65.25
-Female,0,No,No,Yes,No,0,No,No,Yes,No,No,Yes,1,Yes,Electronic check,59.45
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Mailed check,44.15
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Credit card (automatic),50.2
-Female,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.35
-Female,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,76.5
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.25
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Bank transfer (automatic),86.05
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,No,Yes,No,2,Yes,Electronic check,89.7
-Male,0,Yes,Yes,Yes,No,0,No,Yes,Yes,No,No,No,2,No,Mailed check,53.65
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,75.5
-Female,0,No,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,0,No,Credit card (automatic),71.05
-Female,0,No,No,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),82.5
-Male,0,No,No,No,No phone service,0,Yes,Yes,No,Yes,Yes,No,1,Yes,Bank transfer (automatic),50.95
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,No,No,Yes,0,Yes,Bank transfer (automatic),61.4
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.7
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Credit card (automatic),20.7
-Male,1,Yes,No,Yes,Yes,2,No,No,Yes,No,No,No,1,Yes,Credit card (automatic),80.35
-Male,0,No,No,Yes,Yes,2,Yes,No,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),100.4
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.5
-Male,0,No,No,No,No phone service,0,No,Yes,No,No,No,No,1,No,Bank transfer (automatic),30.3
-Female,1,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),20.05
-Male,0,No,No,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),84.3
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,106.4
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Credit card (automatic),19.7
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),90.3
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.15
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,No,No,No,2,No,Electronic check,59.8
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.85
-Male,0,No,No,Yes,Yes,0,No,Yes,Yes,No,No,Yes,1,Yes,Bank transfer (automatic),71.4
-Male,1,Yes,No,Yes,No,2,No,No,Yes,No,Yes,No,1,No,Bank transfer (automatic),86.55
-Female,1,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.2
-Male,0,Yes,No,Yes,No,0,Yes,Yes,No,Yes,No,No,2,Yes,Bank transfer (automatic),59.85
-Male,1,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,No,Electronic check,105.75
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),19.95
-Female,0,Yes,Yes,Yes,No,2,No,No,Yes,Yes,Yes,Yes,0,Yes,Electronic check,100.4
-Male,0,Yes,No,Yes,No,2,Yes,Yes,Yes,No,No,No,1,Yes,Credit card (automatic),86.1
-Male,1,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,No,No,1,Yes,Electronic check,84.65
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),26.1
-Female,0,No,No,Yes,No,2,Yes,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),99.1
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,94.1
-Male,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,0,No,Bank transfer (automatic),69.4
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Bank transfer (automatic),19.55
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.7
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),110.8
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,1,Yes,Bank transfer (automatic),111.45
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),26.0
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.8
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.9
-Male,1,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),25.0
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,44.75
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,No,No,Yes,No,1,Yes,Bank transfer (automatic),93.85
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Bank transfer (automatic),24.75
-Male,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,No,0,No,Bank transfer (automatic),53.95
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),111.8
-Male,0,Yes,No,No,No phone service,0,No,No,No,No,No,Yes,1,Yes,Electronic check,35.15
-Male,0,No,No,No,No phone service,0,Yes,Yes,No,No,No,No,1,Yes,Mailed check,35.0
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Bank transfer (automatic),69.7
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,19.3
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,No,Yes,No,No,2,No,Mailed check,60.05
-Female,0,No,Yes,Yes,Yes,0,No,No,No,No,No,No,1,Yes,Mailed check,49.5
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Mailed check,45.05
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.05
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),19.45
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,19.75
-Male,0,No,No,Yes,No,2,No,No,No,Yes,No,No,1,Yes,Mailed check,74.3
-Female,0,No,No,Yes,Yes,2,No,No,Yes,No,No,No,2,Yes,Bank transfer (automatic),79.2
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,76.05
-Male,0,No,Yes,Yes,Yes,2,No,Yes,No,No,Yes,No,1,Yes,Credit card (automatic),89.1
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.45
-Female,0,No,Yes,Yes,No,2,Yes,No,Yes,Yes,No,Yes,1,No,Bank transfer (automatic),93.0
-Female,1,Yes,No,Yes,Yes,0,No,Yes,Yes,No,No,Yes,2,No,Bank transfer (automatic),71.7
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Bank transfer (automatic),20.05
-Female,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Electronic check,52.2
-Female,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,23.05
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,21.2
-Male,0,No,Yes,Yes,Yes,0,No,Yes,No,Yes,Yes,Yes,2,Yes,Mailed check,79.45
-Male,0,Yes,Yes,Yes,No,2,No,Yes,Yes,No,No,No,1,Yes,Credit card (automatic),80.3
-Female,0,No,No,Yes,No,0,Yes,Yes,Yes,Yes,No,Yes,2,No,Credit card (automatic),73.9
-Female,0,Yes,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,104.8
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,2,No,Electronic check,84.05
-Male,0,No,No,Yes,No,0,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,70.05
-Male,0,Yes,Yes,Yes,No,2,No,Yes,No,Yes,Yes,Yes,2,No,Bank transfer (automatic),100.0
-Female,0,Yes,No,Yes,No,0,No,No,No,Yes,Yes,No,2,No,Bank transfer (automatic),60.0
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),24.65
-Male,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,No,Yes,0,Yes,Bank transfer (automatic),102.1
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.6
-Male,1,No,No,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Electronic check,79.4
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,70.05
-Male,0,No,No,Yes,Yes,0,No,No,No,No,No,No,1,No,Electronic check,47.15
-Female,1,Yes,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),107.05
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),18.8
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,No,No,No,0,Yes,Bank transfer (automatic),59.75
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,Yes,Yes,No,0,No,Mailed check,94.3
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),20.05
-Female,0,Yes,No,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),59.55
-Male,1,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,2,Yes,Electronic check,99.0
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Credit card (automatic),19.8
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.05
-Male,1,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,No,2,Yes,Mailed check,98.3
-Male,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Electronic check,47.8
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,70.1
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.05
-Female,0,No,Yes,No,No phone service,0,Yes,No,No,No,No,Yes,1,Yes,Electronic check,38.5
-Male,1,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),107.15
-Female,1,No,No,Yes,Yes,2,No,No,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),103.75
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.05
-Female,1,No,No,Yes,Yes,2,No,Yes,No,No,Yes,No,1,Yes,Electronic check,89.15
-Female,1,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,No,Bank transfer (automatic),89.7
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.55
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,0,Yes,Bank transfer (automatic),101.05
-Male,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,No,Mailed check,78.75
-Male,1,No,No,No,No phone service,0,No,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),50.95
-Female,0,Yes,No,No,No phone service,0,Yes,Yes,No,Yes,No,No,0,No,Bank transfer (automatic),37.7
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,89.15
-Female,0,No,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,1,Yes,Mailed check,100.85
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,21.05
-Male,0,Yes,No,Yes,No,0,Yes,No,No,Yes,No,No,1,Yes,Credit card (automatic),54.95
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),25.65
-Female,1,No,No,Yes,Yes,2,Yes,Yes,Yes,Yes,No,Yes,0,Yes,Bank transfer (automatic),107.4
-Male,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Electronic check,80.8
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.45
-Female,0,No,No,Yes,No,0,No,No,No,No,No,Yes,1,Yes,Electronic check,55.0
-Male,0,No,No,Yes,No,0,No,No,No,No,No,Yes,1,Yes,Electronic check,55.9
-Female,0,No,Yes,Yes,No,0,No,Yes,No,Yes,No,No,2,Yes,Credit card (automatic),54.75
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),19.3
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,100.25
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),117.15
-Male,0,No,No,No,No phone service,0,No,Yes,Yes,Yes,No,No,1,Yes,Credit card (automatic),40.4
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.85
-Male,0,No,No,Yes,No,2,No,No,Yes,No,No,Yes,1,Yes,Credit card (automatic),83.8
-Male,0,No,No,Yes,Yes,0,No,No,No,Yes,No,Yes,1,No,Mailed check,65.55
-Female,0,No,No,Yes,No,0,Yes,No,No,No,No,No,1,Yes,Electronic check,49.85
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.25
-Male,1,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Mailed check,89.55
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Electronic check,110.6
-Female,1,Yes,No,Yes,Yes,2,Yes,Yes,No,No,No,Yes,2,No,Credit card (automatic),95.0
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.75
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,106.15
-Male,1,Yes,Yes,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Credit card (automatic),75.2
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),108.65
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.5
-Male,0,No,Yes,Yes,No,0,Yes,Yes,No,No,No,No,1,Yes,Electronic check,55.3
-Female,1,No,No,Yes,Yes,0,Yes,No,Yes,Yes,No,Yes,0,No,Bank transfer (automatic),73.25
-Male,0,No,No,Yes,Yes,0,No,No,Yes,No,Yes,Yes,1,No,Bank transfer (automatic),74.75
-Male,0,Yes,No,No,No phone service,0,No,No,Yes,No,Yes,No,2,Yes,Credit card (automatic),38.1
-Female,0,Yes,Yes,No,No phone service,0,No,No,No,Yes,Yes,No,2,No,Mailed check,40.9
-Female,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Electronic check,89.65
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,Yes,No,No,1,Yes,Electronic check,80.75
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),93.85
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.7
-Female,0,No,No,Yes,No,2,No,No,No,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),94.4
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,0,No,Mailed check,71.1
-Female,0,No,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Credit card (automatic),74.3
-Male,0,No,No,Yes,No,0,Yes,No,No,Yes,No,No,1,No,Mailed check,56.65
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),19.5
-Male,0,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,75.2
-Female,0,Yes,Yes,No,No phone service,0,Yes,Yes,No,No,No,No,1,No,Bank transfer (automatic),35.05
-Male,0,No,Yes,No,No phone service,0,No,Yes,No,No,No,No,1,Yes,Mailed check,31.35
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Credit card (automatic),89.35
-Male,0,No,Yes,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,71.65
-Male,0,No,No,Yes,No,0,No,No,No,No,Yes,Yes,1,Yes,Mailed check,62.8
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.15
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,No,Yes,2,No,Credit card (automatic),90.45
-Female,0,No,Yes,Yes,No,0,No,No,No,No,No,No,1,No,Bank transfer (automatic),45.2
-Male,1,No,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,74.4
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.45
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,No,2,Yes,Credit card (automatic),105.1
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,No,Bank transfer (automatic),99.5
-Male,0,Yes,Yes,Yes,No,2,No,No,Yes,No,Yes,No,1,Yes,Mailed check,84.05
-Female,1,No,No,Yes,Yes,2,Yes,Yes,No,No,Yes,Yes,1,Yes,Bank transfer (automatic),106.75
-Female,0,Yes,No,Yes,No,0,No,Yes,No,Yes,No,No,1,No,Electronic check,56.85
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.1
-Male,0,No,No,Yes,No,2,No,Yes,No,Yes,No,No,1,Yes,Electronic check,78.45
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.7
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),85.5
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,24.95
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),19.95
-Female,0,No,No,Yes,No,0,Yes,No,Yes,No,No,Yes,1,No,Bank transfer (automatic),64.05
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),19.6
-Male,1,Yes,No,Yes,No,0,No,No,Yes,Yes,No,No,2,No,Credit card (automatic),54.1
-Male,0,Yes,Yes,Yes,No,2,No,Yes,Yes,Yes,Yes,No,2,No,Bank transfer (automatic),92.9
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,24.75
-Male,0,No,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,2,No,Credit card (automatic),114.35
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.6
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.9
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,19.25
-Female,1,No,No,Yes,Yes,2,No,No,Yes,No,No,No,1,Yes,Electronic check,78.55
-Female,0,No,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.95
-Male,0,No,No,Yes,No,2,No,No,Yes,Yes,No,Yes,1,Yes,Electronic check,90.4
-Female,0,No,No,Yes,No,0,Yes,No,No,Yes,No,No,1,No,Credit card (automatic),53.85
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,111.2
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,No,Yes,Yes,Yes,0,No,Bank transfer (automatic),104.6
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,2,No,Bank transfer (automatic),45.05
-Female,1,No,No,No,No phone service,0,Yes,Yes,No,No,No,No,1,Yes,Credit card (automatic),33.45
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),89.3
-Male,0,Yes,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,64.7
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,No,2,No,Mailed check,98.6
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),112.1
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Credit card (automatic),19.85
-Male,1,Yes,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,73.65
-Male,0,No,No,Yes,No,0,No,No,No,Yes,Yes,No,1,Yes,Credit card (automatic),61.55
-Female,0,No,No,Yes,No,0,Yes,Yes,No,Yes,No,No,2,No,Bank transfer (automatic),58.2
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Mailed check,20.1
-Female,0,No,No,Yes,No,0,No,Yes,No,Yes,No,No,2,No,Electronic check,55.45
-Male,0,No,No,Yes,No,0,No,No,Yes,Yes,No,Yes,2,Yes,Mailed check,62.3
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.0
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,Yes,No,No,Yes,2,Yes,Bank transfer (automatic),68.75
-Male,0,Yes,No,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,94.65
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Bank transfer (automatic),20.3
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,No,Yes,2,No,Electronic check,95.3
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,115.55
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Electronic check,110.2
-Male,0,Yes,Yes,Yes,No,0,No,Yes,Yes,Yes,Yes,No,2,Yes,Electronic check,68.75
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Electronic check,90.15
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.1
-Male,1,No,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Electronic check,72.85
-Male,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,0,Yes,Bank transfer (automatic),67.8
-Male,0,Yes,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,70.5
-Male,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,Yes,No,No,0,No,Mailed check,65.85
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.0
-Male,0,No,No,Yes,No,2,No,Yes,No,Yes,No,No,1,Yes,Mailed check,80.6
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,108.4
-Female,0,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.3
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,20.35
-Male,0,No,No,Yes,Yes,2,No,No,Yes,Yes,No,Yes,1,Yes,Bank transfer (automatic),95.65
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),44.2
-Female,0,Yes,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,0,Yes,Credit card (automatic),70.35
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,Yes,Credit card (automatic),91.5
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Electronic check,20.65
-Male,1,Yes,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,2,Yes,Bank transfer (automatic),71.0
-Male,0,No,Yes,Yes,No,0,Yes,No,Yes,No,No,Yes,2,No,Mailed check,64.85
-Male,0,No,No,Yes,No,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,94.5
-Female,0,No,No,No,No phone service,0,No,No,Yes,No,Yes,Yes,1,Yes,Credit card (automatic),50.35
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Mailed check,80.1
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.3
-Male,0,No,No,Yes,No,0,Yes,No,No,Yes,Yes,No,1,No,Bank transfer (automatic),62.25
-Female,0,No,Yes,Yes,Yes,0,Yes,No,No,No,No,Yes,1,No,Electronic check,64.8
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,0,Yes,Electronic check,99.4
-Male,1,No,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,101.4
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,No,No,1,No,Electronic check,67.6
-Male,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,No,Yes,0,No,Credit card (automatic),79.55
-Male,0,No,No,Yes,Yes,0,No,Yes,Yes,Yes,No,Yes,0,Yes,Credit card (automatic),74.2
-Female,0,No,No,Yes,No,0,No,No,No,Yes,Yes,No,1,Yes,Mailed check,59.5
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),20.1
-Female,0,Yes,No,Yes,No,0,Yes,Yes,Yes,No,Yes,No,0,Yes,Credit card (automatic),72.0
-Female,0,No,No,Yes,No,0,No,No,Yes,No,No,No,1,Yes,Mailed check,50.0
-Female,0,Yes,Yes,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,88.85
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,No,1,Yes,Electronic check,50.1
-Male,0,No,No,Yes,Yes,2,No,No,Yes,Yes,No,No,2,No,Electronic check,86.75
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Mailed check,25.1
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,Yes,No,Yes,0,Yes,Bank transfer (automatic),96.25
-Female,0,No,No,Yes,Yes,2,No,Yes,No,Yes,No,Yes,2,No,Electronic check,94.7
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,No,Yes,Yes,Yes,0,Yes,Electronic check,84.95
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,No,1,Yes,Mailed check,94.05
-Male,0,Yes,Yes,Yes,No,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),69.95
-Female,1,No,No,No,No phone service,0,No,No,Yes,No,No,No,1,Yes,Electronic check,30.4
-Female,0,Yes,Yes,Yes,Yes,0,Yes,No,No,Yes,No,No,0,No,Credit card (automatic),61.4
-Female,0,No,No,No,No phone service,0,No,No,Yes,Yes,No,No,1,Yes,Electronic check,35.2
-Female,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,No,Yes,No,2,Yes,Credit card (automatic),94.45
-Male,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Bank transfer (automatic),19.9
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,20.55
-Female,0,Yes,Yes,Yes,No,0,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),80.6
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,No,No,1,No,Electronic check,90.45
-Male,0,Yes,Yes,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,83.65
-Male,0,No,No,Yes,Yes,2,Yes,Yes,No,No,Yes,No,1,Yes,Credit card (automatic),92.4
-Male,0,No,Yes,Yes,No,0,No,Yes,No,Yes,No,No,2,Yes,Credit card (automatic),54.4
-Male,1,Yes,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Credit card (automatic),74.3
-Male,0,No,Yes,Yes,No,0,Yes,No,Yes,No,No,No,1,No,Mailed check,55.9
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.35
-Male,1,Yes,No,Yes,No,2,No,No,Yes,Yes,No,Yes,1,Yes,Electronic check,91.55
-Female,0,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),24.25
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Mailed check,45.25
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,Yes,No,No,1,No,Electronic check,89.4
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.05
-Female,0,No,No,Yes,Yes,0,No,No,No,No,No,No,1,Yes,Mailed check,50.65
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,21.2
-Female,0,No,No,No,No phone service,0,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Bank transfer (automatic),58.75
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),74.95
-Male,0,Yes,Yes,Yes,No,2,Yes,Yes,No,No,No,No,2,Yes,Credit card (automatic),80.65
-Male,0,Yes,Yes,No,No phone service,0,No,No,Yes,No,Yes,Yes,1,No,Credit card (automatic),50.6
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,20.0
-Male,0,No,No,Yes,Yes,2,No,No,No,Yes,Yes,No,1,Yes,Electronic check,89.95
-Male,0,Yes,Yes,Yes,No,2,No,No,Yes,No,Yes,No,1,No,Electronic check,85.45
-Female,0,Yes,Yes,Yes,Yes,0,No,Yes,No,Yes,Yes,Yes,0,No,Electronic check,79.65
-Female,0,No,No,Yes,Yes,0,Yes,Yes,No,No,No,No,2,Yes,Bank transfer (automatic),60.15
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),23.95
-Female,0,No,No,No,No phone service,0,No,No,Yes,Yes,No,No,0,No,Mailed check,35.4
-Male,0,No,No,No,No phone service,0,No,No,No,Yes,No,No,1,No,Electronic check,30.4
-Female,0,Yes,Yes,Yes,No,2,No,No,No,Yes,Yes,No,1,Yes,Electronic check,85.75
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.7
-Female,0,No,No,No,No phone service,0,No,No,Yes,Yes,No,No,1,Yes,Mailed check,33.45
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.55
-Male,0,Yes,No,No,No phone service,0,Yes,No,No,Yes,No,No,1,No,Mailed check,35.1
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,78.9
-Male,0,No,No,Yes,No,2,No,No,Yes,Yes,No,No,2,No,Electronic check,81.9
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,0,No,Electronic check,104.7
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.5
-Male,1,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.7
-Male,0,Yes,Yes,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,1,No,Electronic check,83.25
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Credit card (automatic),100.85
-Female,0,Yes,No,Yes,No,2,No,No,No,Yes,No,Yes,1,No,Credit card (automatic),85.9
-Male,1,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Bank transfer (automatic),45.25
-Female,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,No,Yes,2,Yes,Electronic check,90.15
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,1,Yes,Electronic check,104.2
-Male,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),65.55
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,No,Yes,1,Yes,Electronic check,89.95
-Male,0,Yes,Yes,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,99.8
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Mailed check,19.4
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,73.65
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Electronic check,49.2
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,84.0
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Credit card (automatic),85.95
-Female,1,No,No,Yes,No,2,No,No,Yes,No,Yes,No,1,Yes,Electronic check,86.85
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),24.45
-Male,0,Yes,Yes,No,No phone service,0,Yes,Yes,Yes,No,No,No,0,No,Credit card (automatic),38.5
-Female,1,Yes,No,Yes,No,2,No,Yes,Yes,Yes,Yes,No,2,Yes,Electronic check,94.0
-Female,0,No,No,Yes,No,2,Yes,No,Yes,Yes,No,Yes,2,Yes,Bank transfer (automatic),95.85
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,No,Yes,Yes,0,No,Bank transfer (automatic),98.3
-Male,0,No,No,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),60.75
-Male,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,No,No,Yes,0,No,Bank transfer (automatic),93.4
-Female,0,No,No,No,No phone service,0,Yes,No,No,No,No,No,1,Yes,Mailed check,29.15
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,84.9
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.35
-Female,0,No,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),106.95
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,85.65
-Male,0,No,No,Yes,Yes,2,Yes,No,No,Yes,Yes,Yes,0,Yes,Credit card (automatic),104.0
-Female,1,Yes,No,Yes,No,2,No,Yes,No,No,No,No,1,Yes,Bank transfer (automatic),74.6
-Female,0,Yes,No,Yes,Yes,0,Yes,No,No,No,No,No,1,No,Electronic check,53.1
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,No,Electronic check,96.2
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),19.75
-Female,1,No,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.05
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.95
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.55
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,19.35
-Male,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,No,Bank transfer (automatic),24.8
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,25.25
-Female,0,No,No,Yes,Yes,0,Yes,Yes,Yes,Yes,No,Yes,0,Yes,Credit card (automatic),80.3
-Male,1,No,No,No,No phone service,0,No,No,Yes,No,No,Yes,1,Yes,Electronic check,41.15
-Female,1,Yes,No,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),92.2
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.3
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,No,1,Yes,Electronic check,94.65
-Female,0,No,No,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,2,Yes,Credit card (automatic),89.65
-Male,0,No,Yes,No,No phone service,0,No,Yes,No,Yes,No,No,1,No,Mailed check,33.6
-Male,1,Yes,No,Yes,No,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,98.0
-Male,0,No,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.5
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,No,No,No,1,Yes,Electronic check,83.25
-Male,0,Yes,Yes,No,No phone service,0,Yes,Yes,No,Yes,No,No,0,No,Mailed check,40.55
-Male,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Electronic check,90.35
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),110.45
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.55
-Female,0,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,20.15
-Female,0,No,No,Yes,Yes,2,Yes,Yes,Yes,No,Yes,Yes,0,Yes,Mailed check,111.15
-Male,0,No,No,No,No phone service,0,No,Yes,No,Yes,No,No,2,No,Credit card (automatic),36.0
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Credit card (automatic),71.3
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,44.1
-Male,0,Yes,Yes,Yes,No,0,Yes,No,No,Yes,No,Yes,2,No,Credit card (automatic),63.7
-Male,0,Yes,Yes,No,No phone service,0,Yes,No,Yes,Yes,No,No,2,Yes,Electronic check,40.2
-Female,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.15
-Male,0,No,No,Yes,No,0,No,Yes,No,No,Yes,No,1,Yes,Mailed check,59.65
-Female,1,Yes,Yes,Yes,No,0,Yes,No,No,Yes,Yes,Yes,0,Yes,Credit card (automatic),72.6
-Female,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),74.95
-Female,0,Yes,No,Yes,Yes,2,No,No,Yes,Yes,Yes,No,1,No,Electronic check,93.35
-Male,0,Yes,No,Yes,Yes,2,Yes,No,No,Yes,No,No,0,Yes,Credit card (automatic),84.65
-Male,0,No,No,No,No phone service,0,No,No,Yes,No,Yes,No,2,Yes,Electronic check,41.6
-Male,0,Yes,No,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,0,No,Bank transfer (automatic),60.25
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,No,Yes,1,Yes,Mailed check,90.4
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),110.45
-Male,1,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Electronic check,19.2
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.85
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Mailed check,81.9
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,No,No,Yes,1,No,Credit card (automatic),86.15
-Male,0,No,Yes,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Electronic check,84.95
-Female,0,Yes,Yes,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.45
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),20.45
-Male,1,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Electronic check,69.65
-Male,0,No,No,Yes,Yes,2,No,No,Yes,No,Yes,No,1,Yes,Electronic check,89.55
-Male,0,Yes,No,Yes,No,2,Yes,Yes,No,No,No,No,1,No,Bank transfer (automatic),80.75
-Male,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Mailed check,72.6
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),24.65
-Male,1,No,No,Yes,No,2,No,Yes,Yes,Yes,No,No,1,Yes,Mailed check,83.8
-Female,0,Yes,No,Yes,Yes,0,Yes,No,No,Yes,No,No,2,No,Bank transfer (automatic),58.25
-Female,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,1,No,Bank transfer (automatic),79.3
-Female,0,Yes,No,Yes,Yes,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),84.4
-Male,1,No,No,No,No phone service,0,No,No,Yes,No,No,Yes,1,Yes,Electronic check,39.65
-Female,1,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,No,Electronic check,90.95
-Male,0,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,69.15
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,Yes,Electronic check,104.65
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,No,No,No,1,Yes,Electronic check,78.9
-Male,0,Yes,Yes,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.45
-Male,0,No,No,Yes,No,2,No,Yes,Yes,No,No,No,1,Yes,Electronic check,78.25
-Female,0,No,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,85.2
-Male,1,No,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,111.4
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Electronic check,109.5
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Electronic check,44.35
-Male,0,No,No,Yes,No,2,Yes,Yes,Yes,Yes,No,No,2,Yes,Credit card (automatic),90.65
-Female,0,Yes,No,Yes,No,2,Yes,No,No,No,No,No,1,Yes,Bank transfer (automatic),75.5
-Female,0,No,No,Yes,No,0,No,No,Yes,Yes,No,No,0,No,Credit card (automatic),54.35
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),20.95
-Female,0,No,No,Yes,No,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,95.1
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,No,Credit card (automatic),114.3
-Female,0,No,No,Yes,No,0,No,No,No,No,No,Yes,1,Yes,Electronic check,55.4
-Male,0,No,Yes,Yes,No,0,Yes,Yes,No,No,No,No,2,No,Bank transfer (automatic),56.15
-Female,0,No,No,Yes,Yes,0,No,No,Yes,No,No,No,1,Yes,Mailed check,56.1
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Electronic check,45.45
-Male,1,Yes,No,Yes,No,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,95.75
-Female,0,No,No,Yes,No,0,Yes,Yes,No,No,Yes,No,1,No,Mailed check,65.1
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,25.05
-Male,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,No,Electronic check,25.1
-Female,1,No,No,Yes,No,2,No,No,Yes,No,No,Yes,1,Yes,Electronic check,85.0
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Electronic check,20.35
-Female,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Electronic check,103.95
-Male,1,Yes,No,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,1,Yes,Bank transfer (automatic),109.9
-Female,0,No,No,Yes,No,2,No,No,Yes,No,No,No,1,No,Bank transfer (automatic),73.5
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Credit card (automatic),20.05
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,No,No,Yes,Yes,2,Yes,Credit card (automatic),101.05
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.5
-Female,1,Yes,No,Yes,Yes,2,Yes,No,Yes,No,Yes,Yes,2,Yes,Electronic check,104.85
-Male,0,Yes,Yes,Yes,No,0,No,No,No,No,No,No,2,Yes,Mailed check,43.45
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),110.8
-Female,1,No,No,Yes,Yes,0,No,Yes,No,No,No,No,1,No,Electronic check,54.9
-Female,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),74.9
-Female,1,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),115.6
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,No,No,1,Yes,Bank transfer (automatic),80.05
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.7
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Electronic check,19.1
-Male,0,No,No,Yes,Yes,2,No,No,No,Yes,Yes,Yes,2,Yes,Electronic check,100.0
-Female,0,Yes,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),108.95
-Male,0,No,No,Yes,No,0,No,No,No,Yes,No,No,1,No,Mailed check,49.05
-Female,1,Yes,No,Yes,No,2,Yes,Yes,No,Yes,Yes,Yes,2,Yes,Credit card (automatic),105.5
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,No,Yes,No,No,0,No,Credit card (automatic),66.75
-Female,0,No,No,Yes,No,2,No,No,Yes,Yes,No,Yes,1,Yes,Electronic check,89.4
-Female,0,No,No,Yes,No,2,No,Yes,No,No,Yes,No,1,Yes,Bank transfer (automatic),87.15
-Female,0,Yes,Yes,No,No phone service,0,Yes,No,Yes,Yes,Yes,Yes,2,No,Mailed check,61.25
-Male,0,Yes,Yes,Yes,No,2,No,Yes,No,Yes,Yes,Yes,2,Yes,Bank transfer (automatic),98.45
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),23.4
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Mailed check,24.25
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.0
-Male,0,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,80.55
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),20.25
-Female,0,No,No,No,No phone service,0,No,No,No,Yes,No,Yes,2,Yes,Credit card (automatic),40.35
-Male,0,No,No,Yes,Yes,2,Yes,No,No,Yes,No,Yes,2,No,Credit card (automatic),97.65
-Male,0,No,No,Yes,No,2,Yes,Yes,Yes,Yes,Yes,Yes,1,Yes,Electronic check,110.1
-Male,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,No,No,No,2,No,Electronic check,89.75
-Male,0,No,No,No,No phone service,0,No,Yes,Yes,No,No,No,1,Yes,Credit card (automatic),33.5
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,76.25
-Male,0,Yes,No,Yes,No,2,No,Yes,No,No,No,Yes,1,Yes,Credit card (automatic),85.05
-Male,0,Yes,No,Yes,No,0,Yes,No,No,Yes,No,No,1,No,Electronic check,55.7
-Male,0,No,No,Yes,No,0,Yes,No,Yes,No,No,No,2,No,Mailed check,56.95
-Female,1,Yes,Yes,No,No phone service,0,No,No,No,Yes,No,No,1,Yes,Mailed check,29.3
-Female,0,No,No,Yes,No,0,No,Yes,No,No,No,No,1,No,Electronic check,49.5
-Male,1,Yes,Yes,No,No phone service,0,No,No,No,No,No,Yes,1,Yes,Bank transfer (automatic),34.55
-Male,1,Yes,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),25.65
-Female,1,Yes,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,100.8
-Female,1,Yes,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),79.95
-Male,0,No,No,Yes,Yes,2,Yes,No,No,No,Yes,Yes,1,No,Mailed check,98.15
-Female,0,No,No,Yes,No,0,Yes,No,No,Yes,No,No,2,No,Bank transfer (automatic),54.25
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.3
-Male,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,1,No,Electronic check,104.4
-Female,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,No,1,Yes,Electronic check,89.75
-Female,0,Yes,No,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Credit card (automatic),113.65
-Female,0,No,No,Yes,Yes,0,Yes,No,No,No,No,No,1,No,Mailed check,54.45
-Female,0,Yes,Yes,Yes,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),89.0
-Female,0,No,No,Yes,No,0,Yes,No,No,Yes,No,Yes,1,No,Bank transfer (automatic),66.05
-Male,0,No,No,Yes,No,0,Yes,Yes,No,Yes,Yes,No,2,No,Mailed check,70.6
-Male,1,Yes,No,Yes,Yes,2,Yes,No,No,No,No,Yes,2,Yes,Electronic check,89.05
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,26.4
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,1,Yes,Mailed check,112.95
-Female,0,No,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Credit card (automatic),71.0
-Female,0,Yes,No,Yes,No,2,No,Yes,Yes,Yes,No,No,2,Yes,Bank transfer (automatic),86.2
-Female,1,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,20.65
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,No,No,Yes,No,2,Yes,Credit card (automatic),94.95
-Female,0,Yes,Yes,Yes,No,2,Yes,No,Yes,Yes,Yes,Yes,1,Yes,Electronic check,106.9
-Male,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,No,Mailed check,74.15
-Male,0,No,No,Yes,Yes,2,No,Yes,No,No,Yes,Yes,1,No,Electronic check,98.7
-Female,0,Yes,No,Yes,No,0,Yes,No,Yes,Yes,Yes,Yes,1,No,Bank transfer (automatic),81.25
-Female,0,Yes,Yes,No,No phone service,0,Yes,No,Yes,No,No,Yes,2,No,Credit card (automatic),45.0
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,Yes,Mailed check,19.7
-Female,0,Yes,No,Yes,No,0,Yes,Yes,No,No,Yes,No,1,Yes,Credit card (automatic),65.25
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Mailed check,44.0
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Credit card (automatic),20.05
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,18.8
-Male,0,No,No,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,Yes,Electronic check,25.6
-Male,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,19.55
-Female,0,Yes,No,Yes,No,0,No,Yes,No,No,No,No,1,Yes,Electronic check,51.25
-Female,0,No,No,Yes,Yes,0,Yes,Yes,No,No,No,No,1,Yes,Mailed check,60.9
-Male,0,Yes,Yes,Yes,No,2,Yes,Yes,Yes,No,Yes,Yes,2,Yes,Bank transfer (automatic),104.65
-Male,0,No,No,Yes,No,2,No,Yes,No,Yes,No,Yes,2,Yes,Credit card (automatic),89.6
-Male,0,No,No,Yes,Yes,2,Yes,No,No,No,No,No,2,No,Bank transfer (automatic),80.1
-Female,0,Yes,No,Yes,No,0,No,No,Yes,No,Yes,Yes,1,No,Credit card (automatic),69.0
-Male,0,No,Yes,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.35
-Male,0,Yes,Yes,Yes,Yes,2,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Electronic check,114.0
-Male,1,No,No,No,No phone service,0,No,No,Yes,Yes,Yes,No,1,No,Credit card (automatic),45.4
-Female,0,No,No,Yes,Yes,2,No,Yes,No,Yes,No,Yes,1,Yes,Electronic check,93.5
-Male,0,Yes,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Electronic check,85.15
-Male,0,No,No,Yes,No,2,No,No,No,No,No,No,1,No,Mailed check,70.6
-Female,0,No,Yes,Yes,Yes,2,Yes,No,No,No,No,No,1,No,Credit card (automatic),80.55
-Female,1,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),100.5
-Female,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,20.5
-Female,0,Yes,Yes,Yes,No,2,No,No,Yes,Yes,No,Yes,2,No,Bank transfer (automatic),90.95
-Female,0,No,No,Yes,Yes,0,Yes,No,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),79.3
-Male,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Electronic check,70.2
-Female,0,No,No,Yes,No,0,No,No,No,No,No,No,1,No,Credit card (automatic),43.95
-Male,0,No,No,No,No phone service,0,Yes,Yes,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),63.7
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.65
-Female,1,No,No,No,No phone service,0,No,No,Yes,No,Yes,No,1,Yes,Electronic check,40.3
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,24.55
-Female,0,Yes,Yes,No,No phone service,0,No,Yes,No,No,No,Yes,1,No,Mailed check,40.3
-Female,0,Yes,Yes,Yes,Yes,2,No,Yes,Yes,Yes,No,Yes,0,Yes,Bank transfer (automatic),98.65
-Male,0,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Credit card (automatic),102.25
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.65
-Female,0,Yes,No,Yes,No,2,Yes,Yes,No,Yes,Yes,No,1,Yes,Electronic check,96.55
-Male,0,Yes,No,Yes,Yes,0,Yes,No,No,Yes,Yes,Yes,2,No,Mailed check,80.85
-Male,0,No,No,No,No phone service,0,No,Yes,No,No,No,No,1,Yes,Mailed check,31.1
-Female,1,Yes,No,Yes,Yes,2,No,No,No,No,No,Yes,1,Yes,Credit card (automatic),85.35
-Female,0,Yes,Yes,Yes,No,2,No,No,Yes,No,No,No,1,Yes,Credit card (automatic),75.3
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.4
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.45
-Male,0,Yes,No,Yes,Yes,0,No,No,No,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),75.2
-Female,0,Yes,Yes,Yes,No,0,Yes,Yes,Yes,Yes,No,No,2,No,Mailed check,66.15
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.5
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.7
-Male,1,Yes,No,No,No phone service,0,Yes,Yes,Yes,No,No,No,0,Yes,Electronic check,41.95
-Female,0,No,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),19.5
-Male,0,Yes,Yes,No,No phone service,0,No,No,Yes,Yes,No,Yes,0,No,Credit card (automatic),46.0
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,Yes,Credit card (automatic),106.1
-Female,0,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,75.65
-Female,0,Yes,Yes,Yes,Yes,0,No,No,Yes,Yes,No,Yes,0,Yes,Bank transfer (automatic),69.9
-Female,0,Yes,Yes,Yes,No,0,No,Yes,No,Yes,No,No,1,No,Electronic check,55.15
-Female,0,Yes,No,Yes,Yes,2,No,No,No,No,Yes,No,1,Yes,Electronic check,86.85
-Female,0,No,No,No,No phone service,0,Yes,No,No,Yes,No,Yes,2,No,Bank transfer (automatic),44.1
-Male,0,Yes,Yes,Yes,No,0,No,No,No,No,Yes,No,1,Yes,Electronic check,54.4
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Mailed check,74.4
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Bank transfer (automatic),20.05
-Female,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.25
-Female,0,Yes,No,Yes,Yes,0,Yes,Yes,Yes,No,No,No,1,No,Mailed check,66.3
-Female,1,No,No,Yes,Yes,2,Yes,Yes,Yes,No,No,No,1,No,Credit card (automatic),91.7
-Male,0,No,Yes,Yes,No,0,No,Yes,Yes,Yes,No,No,2,Yes,Electronic check,61.0
-Male,0,Yes,Yes,No,No phone service,0,No,Yes,Yes,Yes,Yes,Yes,2,No,Mailed check,60.3
-Female,0,No,Yes,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Electronic check,79.6
-Male,0,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,No,Electronic check,104.1
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Credit card (automatic),20.9
-Female,0,No,No,No,No phone service,0,Yes,No,No,No,No,No,1,Yes,Bank transfer (automatic),30.85
-Female,0,No,No,Yes,No,2,No,No,No,Yes,No,No,1,Yes,Mailed check,75.65
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Credit card (automatic),19.8
-Female,1,Yes,No,Yes,No,2,No,No,No,No,No,No,1,Yes,Bank transfer (automatic),70.65
-Male,1,Yes,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,2,No,Mailed check,19.65
-Female,0,No,No,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,90.4
-Male,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.9
-Male,0,Yes,Yes,Yes,No,0,Yes,No,Yes,Yes,No,No,2,Yes,Mailed check,58.75
-Female,0,No,No,Yes,No,2,No,No,No,No,No,Yes,1,Yes,Electronic check,81.95
-Female,0,Yes,Yes,Yes,No,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,90.8
-Female,0,Yes,Yes,Yes,Yes,2,Yes,No,Yes,Yes,Yes,Yes,0,Yes,Bank transfer (automatic),109.05
-Male,1,Yes,No,Yes,Yes,2,No,No,No,No,Yes,Yes,1,Yes,Electronic check,95.1
-Male,0,Yes,No,Yes,Yes,2,No,No,No,Yes,No,No,2,Yes,Electronic check,79.25
-Male,1,No,No,Yes,No,2,No,No,No,No,Yes,No,1,Yes,Electronic check,79.1
-Male,0,Yes,No,Yes,Yes,2,No,Yes,No,No,No,No,2,Yes,Electronic check,78.9
-Male,1,Yes,No,Yes,No,2,No,Yes,No,Yes,No,Yes,1,Yes,Bank transfer (automatic),89.05
-Female,1,Yes,No,Yes,Yes,2,No,Yes,Yes,No,Yes,Yes,2,No,Credit card (automatic),105.0
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Mailed check,19.85
-Male,1,Yes,Yes,Yes,No,0,No,No,No,Yes,No,No,1,Yes,Credit card (automatic),49.25
-Male,1,No,No,Yes,Yes,2,Yes,No,No,Yes,No,Yes,0,No,Electronic check,93.75
-Male,0,No,No,Yes,Yes,2,No,Yes,Yes,Yes,No,No,1,Yes,Electronic check,87.35
-Male,0,Yes,Yes,Yes,Yes,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,Yes,Bank transfer (automatic),25.2
-Male,0,Yes,No,Yes,No,0,Yes,No,No,Yes,No,No,2,Yes,Credit card (automatic),56.25
-Female,0,No,No,No,No phone service,0,No,No,No,No,No,No,1,Yes,Electronic check,24.45
-Female,0,Yes,Yes,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,0,No,Bank transfer (automatic),20.1
-Female,0,Yes,Yes,No,No phone service,0,No,Yes,No,No,No,No,1,No,Mailed check,29.2
-Male,1,Yes,No,No,No phone service,0,No,Yes,No,No,Yes,Yes,1,Yes,Electronic check,50.25
-Male,0,No,No,Yes,No,1,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,1,No,Mailed check,20.7
-Female,1,No,No,Yes,Yes,2,No,No,No,No,No,No,1,Yes,Electronic check,74.45
-Male,1,Yes,No,Yes,Yes,2,No,No,Yes,No,Yes,Yes,1,Yes,Electronic check,99.25
-Female,0,Yes,Yes,Yes,No,2,No,No,No,No,Yes,Yes,1,No,Electronic check,88.35
-Female,1,No,No,Yes,Yes,2,No,Yes,Yes,Yes,Yes,Yes,2,Yes,Electronic check,111.95
-Male,0,No,No,Yes,Yes,0,Yes,No,No,No,No,No,1,No,Mailed check,56.25
-Male,0,No,No,Yes,No,0,No,No,No,No,No,No,1,Yes,Mailed check,45.8
+Contract,InternetService
+2,0
+2,2
+1,0
+0,1
+1,2
+1,2
+0,0
+1,2
+2,0
+1,2
+2,2
+1,0
+0,0
+1,0
+0,2
+1,0
+1,1
+1,2
+2,1
+1,2
+0,1
+1,0
+0,1
+2,0
+1,1
+0,0
+2,0
+1,0
+1,2
+1,1
+1,0
+1,0
+2,2
+1,2
+1,1
+1,2
+1,2
+1,0
+1,0
+2,1
+0,2
+2,0
+0,0
+0,2
+1,1
+0,1
+0,1
+1,0
+0,1
+1,2
+0,2
+1,0
+1,0
+2,2
+1,1
+1,0
+1,2
+1,2
+1,0
+1,0
+0,0
+1,0
+0,2
+1,0
+2,1
+1,2
+1,0
+0,2
+1,0
+2,0
+1,1
+2,1
+0,1
+1,1
+2,2
+0,1
+2,1
+1,2
+1,0
+2,2
+2,1
+1,2
+0,2
+2,0
+1,0
+1,2
+0,1
+0,2
+1,2
+1,2
+1,0
+0,1
+2,0
+0,0
+1,0
+0,1
+1,0
+1,2
+1,0
+2,0
+1,2
+1,2
+2,2
+0,0
+0,0
+1,2
+1,0
+2,0
+1,0
+0,2
+1,2
+1,2
+2,2
+1,0
+0,1
+1,1
+1,2
+0,0
+0,1
+1,0
+0,0
+1,2
+1,2
+2,1
+0,0
+1,2
+1,2
+0,2
+1,2
+0,2
+1,2
+0,0
+0,1
+0,1
+2,2
+0,0
+2,0
+1,2
+1,0
+1,0
+1,2
+2,2
+1,0
+0,2
+0,1
+0,2
+0,0
+1,0
+0,2
+2,2
+1,0
+2,1
+1,0
+2,1
+1,0
+1,2
+0,1
+0,2
+1,2
+2,1
+2,0
+1,0
+1,2
+1,2
+1,0
+0,2
+1,0
+1,1
+2,2
+1,2
+2,1
+1,2
+1,0
+0,0
+2,2
+2,0
+1,2
+1,2
+2,0
+0,0
+1,1
+0,2
+1,2
+1,2
+1,2
+2,2
+2,0
+1,0
+0,1
+0,1
+0,0
+1,2
+1,1
+0,1
+1,2
+2,0
+0,1
+1,2
+1,1
+1,0
+0,0
+2,0
+2,0
+2,2
+0,1
+1,0
+0,2
+1,2
+1,1
+1,0
+2,0
+2,0
+0,1
+0,2
+1,2
+0,1
+0,2
+1,0
+2,1
+1,1
+1,0
+0,0
+1,2
+2,0
+1,2
+1,2
+1,2
+1,2
+1,2
+1,1
+2,1
+1,2
+1,2
+1,2
+1,0
+1,2
+2,2
+0,1
+1,2
+1,2
+1,0
+2,2
+1,1
+2,2
+1,2
+1,2
+1,1
+1,2
+1,2
+1,2
+2,2
+1,2
+1,2
+1,2
+1,2
+1,0
+1,2
+0,2
+0,0
+1,2
+1,0
+0,1
+1,2
+1,0
+1,2
+2,2
+0,0
+1,2
+0,1
+0,1
+2,2
+1,2
+2,0
+1,2
+2,2
+1,2
+1,2
+2,1
+1,2
+0,0
+1,2
+0,0
+0,1
+1,2
+0,1
+1,2
+0,0
+0,2
+0,0
+0,1
+0,2
+2,2
+1,1
+1,2
+1,1
+0,2
+1,0
+1,0
+2,0
+1,2
+1,2
+2,1
+1,0
+2,2
+1,2
+0,0
+1,2
+0,2
+1,2
+2,2
+0,1
+2,0
+0,0
+1,2
+0,1
+2,1
+1,0
+1,1
+0,1
+0,1
+1,1
+1,1
+1,2
+1,1
+1,2
+1,2
+1,0
+1,2
+1,2
+1,2
+2,2
+1,2
+2,2
+1,2
+1,2
+0,0
+1,0
+2,0
+1,0
+1,2
+2,0
+0,1
+0,1
+0,2
+1,0
+2,1
+0,1
+1,0
+0,2
+0,0
+1,2
+1,2
+1,2
+0,1
+0,2
+1,0
+1,2
+2,0
+1,2
+1,1
+1,2
+1,1
+1,2
+0,2
+1,0
+1,0
+1,1
+0,1
+0,1
+1,2
+1,2
+1,2
+1,2
+1,0
+0,2
+1,2
+0,0
+1,2
+0,1
+2,0
+2,1
+2,1
+1,0
+2,2
+0,1
+0,1
+0,2
+0,0
+0,0
+0,0
+0,0
+0,0
+1,2
+1,0
+2,2
+0,1
+1,2
+2,0
+1,2
+1,2
+1,2
+0,1
+1,2
+2,2
+2,1
+0,2
+0,2
+2,0
+1,2
+1,2
+1,2
+2,2
+1,0
+1,2
+1,1
+0,0
+1,2
+1,0
+1,2
+2,0
+0,2
+1,2
+1,2
+2,0
+2,2
+1,2
+0,1
+1,0
+1,2
+0,2
+1,0
+1,2
+1,2
+2,0
+0,0
+1,2
+1,2
+1,2
+1,2
+1,0
+1,0
+1,0
+1,2
+1,2
+1,0
+1,0
+1,2
+0,1
+1,2
+1,2
+1,1
+1,0
+1,2
+1,2
+0,1
+1,0
+2,0
+0,0
+2,2
+1,0
+1,2
+0,2
+1,2
+1,1
+1,0
+1,1
+0,1
+2,0
+1,0
+1,1
+1,0
+1,2
+1,0
+0,0
+1,2
+0,1
+1,2
+2,0
+2,1
+2,0
+2,0
+1,2
+1,0
+1,0
+2,0
+1,2
+2,0
+1,0
+0,0
+1,1
+1,2
+1,1
+0,0
+1,1
+1,2
+1,0
+0,1
+1,0
+0,0
+2,0
+0,1
+1,2
+1,2
+1,0
+1,1
+1,0
+1,0
+1,2
+2,1
+1,0
+0,2
+1,2
+1,0
+1,2
+1,1
+1,2
+1,2
+1,0
+1,0
+1,2
+1,2
+0,0
+2,0
+2,2
+1,0
+0,0
+1,0
+1,2
+2,0
+1,0
+1,1
+1,0
+1,2
+1,2
+2,1
+2,1
+1,2
+0,0
+1,1
+0,1
+2,0
+1,2
+0,0
+1,0
+1,0
+1,1
+0,0
+2,1
+1,2
+1,1
+2,0
+1,0
+0,0
+1,2
+2,1
+1,2
+2,2
+0,0
+2,2
+0,0
+2,0
+0,0
+1,1
+2,0
+2,2
+1,1
+1,2
+1,2
+2,2
+0,1
+1,0
+1,0
+0,1
+1,2
+2,1
+0,0
+0,2
+2,1
+2,0
+0,1
+1,1
+0,1
+1,0
+1,2
+1,2
+1,0
+2,0
+1,2
+1,0
+2,1
+2,2
+0,1
+2,0
+1,0
+1,2
+1,0
+2,0
+0,1
+1,2
+0,2
+1,2
+1,2
+1,0
+2,2
+1,0
+1,2
+0,1
+1,1
+2,2
+1,0
+1,2
+2,2
+1,2
+2,2
+1,0
+0,2
+0,0
+2,0
+0,1
+0,2
+2,2
+2,0
+2,2
+1,2
+0,0
+2,1
+1,2
+1,2
+1,0
+1,0
+1,2
+0,0
+1,1
+2,0
+0,0
+1,0
+0,1
+1,2
+1,2
+1,0
+0,0
+2,2
+2,0
+2,1
+0,2
+0,2
+1,2
+1,0
+1,2
+1,2
+1,1
+1,2
+1,0
+0,0
+0,0
+2,2
+2,2
+0,0
+2,0
+0,1
+1,2
+0,1
+1,2
+0,1
+1,2
+0,1
+1,2
+1,1
+1,0
+1,0
+0,0
+1,0
+1,2
+1,0
+1,2
+0,0
+1,2
+1,0
+2,0
+1,1
+2,2
+0,1
+1,0
+1,2
+1,1
+0,0
+1,2
+0,0
+0,0
+2,1
+2,2
+2,0
+1,2
+1,2
+1,1
+1,1
+1,0
+1,0
+1,2
+0,2
+0,0
+0,1
+1,0
+0,1
+1,0
+1,1
+2,1
+0,1
+1,2
+1,0
+1,2
+2,2
+2,0
+1,0
+1,1
+1,2
+1,0
+1,2
+1,1
+0,1
+1,2
+1,2
+1,0
+1,0
+0,0
+1,0
+0,1
+0,2
+0,0
+2,2
+1,1
+2,2
+1,0
+2,2
+1,0
+1,2
+0,2
+1,0
+0,0
+2,2
+2,2
+1,0
+0,0
+0,2
+1,0
+0,0
+1,2
+0,1
+0,2
+1,0
+1,2
+0,1
+2,0
+1,0
+1,2
+1,1
+0,0
+1,1
+1,2
+1,2
+0,0
+2,0
+1,1
+1,2
+1,2
+0,2
+1,0
+0,0
+1,2
+2,0
+1,2
+1,2
+1,0
+1,2
+0,1
+0,1
+2,0
+0,1
+2,1
+2,0
+1,2
+2,0
+2,2
+1,2
+1,2
+1,0
+1,0
+0,1
+0,1
+0,1
+1,2
+1,2
+2,0
+1,0
+1,1
+1,0
+2,0
+1,0
+1,2
+1,2
+1,2
+1,0
+1,0
+1,2
+0,2
+2,2
+1,2
+0,1
+1,2
+0,2
+0,0
+1,0
+0,2
+1,1
+0,1
+1,0
+2,2
+1,2
+1,0
+2,1
+1,2
+1,1
+0,1
+1,2
+2,1
+1,1
+1,0
+2,0
+0,2
+1,0
+2,2
+1,2
+0,0
+1,0
+1,0
+1,0
+1,0
+0,1
+1,2
+0,1
+1,2
+2,2
+2,0
+1,2
+0,0
+2,0
+1,0
+0,0
+0,1
+2,1
+1,2
+1,2
+0,1
+1,0
+0,1
+0,0
+1,2
+2,1
+0,0
+0,1
+2,0
+0,1
+1,0
+1,2
+1,2
+2,0
+1,2
+0,1
+0,2
+1,2
+1,2
+0,1
+1,2
+1,2
+0,0
+1,1
+1,1
+0,2
+1,2
+0,1
+1,1
+0,1
+0,1
+1,0
+1,2
+2,1
+0,0
+0,2
+1,0
+1,0
+1,2
+2,1
+2,0
+1,0
+1,0
+1,1
+0,1
+1,1
+1,2
+2,2
+1,2
+1,2
+0,1
+1,2
+2,0
+2,1
+1,0
+0,1
+2,1
+2,0
+1,2
+2,0
+1,2
+2,2
+1,0
+2,2
+2,0
+0,1
+0,2
+1,1
+1,2
+1,2
+1,0
+2,2
+0,1
+0,0
+0,2
+1,1
+0,0
+2,2
+2,1
+0,1
+2,2
+1,0
+1,2
+0,1
+1,0
+2,2
+2,2
+0,1
+1,2
+1,2
+1,1
+0,2
+1,2
+1,0
+0,0
+1,2
+1,2
+1,1
+1,0
+0,1
+0,2
+1,2
+1,2
+1,0
+1,0
+2,0
+0,1
+1,2
+0,2
+1,0
+0,1
+1,2
+1,0
+1,0
+0,1
+1,2
+0,2
+2,2
+0,1
+1,2
+1,2
+0,2
+1,2
+1,0
+0,0
+1,0
+2,0
+2,0
+0,0
+1,2
+1,2
+2,1
+2,2
+0,0
+1,2
+1,0
+2,1
+1,2
+1,0
+1,0
+1,2
+1,2
+1,0
+1,2
+2,2
+1,0
+1,2
+1,1
+2,2
+2,2
+1,2
+1,2
+1,0
+0,1
+1,2
+2,1
+0,0
+0,1
+2,1
+1,0
+0,1
+2,0
+2,2
+0,1
+2,2
+1,1
+2,1
+2,1
+1,2
+1,2
+1,2
+1,0
+1,2
+0,2
+2,0
+1,0
+0,0
+0,0
+2,2
+0,2
+1,1
+1,2
+1,0
+2,0
+0,1
+2,0
+2,0
+0,1
+2,0
+1,2
+1,1
+2,2
+0,2
+0,2
+2,0
+2,0
+1,1
+1,2
+0,0
+1,2
+0,0
+0,1
+1,2
+0,2
+1,2
+2,1
+1,2
+1,0
+0,0
+1,2
+1,1
+2,0
+2,0
+1,2
+1,0
+1,2
+1,2
+1,0
+1,0
+0,2
+1,2
+1,0
+0,0
+0,0
+1,0
+0,1
+0,0
+1,0
+1,2
+1,0
+2,2
+1,0
+0,2
+2,2
+0,0
+1,2
+1,2
+1,0
+0,0
+1,0
+2,2
+2,1
+1,1
+0,0
+1,2
+1,2
+1,2
+2,0
+1,2
+1,0
+1,1
+1,2
+0,1
+1,0
+1,2
+1,2
+1,0
+2,1
+0,0
+1,2
+2,2
+1,0
+1,1
+1,2
+1,2
+0,0
+2,0
+0,1
+0,0
+1,0
+1,2
+0,1
+1,0
+1,1
+1,0
+1,2
+2,2
+0,2
+1,2
+1,2
+1,0
+1,2
+1,2
+1,0
+2,2
+1,2
+0,0
+1,2
+1,2
+1,1
+1,2
+1,0
+1,2
+1,2
+1,2
+0,1
+0,0
+2,2
+2,2
+0,2
+0,0
+0,2
+1,0
+1,2
+0,1
+2,2
+1,2
+0,2
+1,2
+1,0
+1,2
+0,1
+1,2
+1,2
+0,1
+0,1
+1,0
+0,1
+0,0
+1,0
+0,0
+1,2
+1,2
+2,0
+1,0
+1,2
+1,2
+1,2
+0,0
+0,0
+0,2
+2,1
+1,1
+0,2
+2,0
+1,2
+1,0
+2,0
+2,0
+0,1
+1,0
+0,0
+1,2
+1,2
+0,2
+2,0
+0,0
+1,2
+0,2
+1,1
+0,1
+1,2
+1,2
+0,0
+1,2
+1,1
+1,2
+1,2
+1,2
+1,2
+0,1
+1,2
+2,0
+1,2
+0,0
+1,0
+1,2
+1,2
+1,2
+1,2
+1,2
+1,2
+1,2
+1,2
+2,2
+1,0
+2,2
+1,2
+0,0
+0,1
+1,2
+0,2
+1,0
+2,0
+1,0
+1,0
+1,2
+1,0
+2,1
+1,0
+1,2
+0,1
+2,2
+1,2
+1,2
+1,1
+2,2
+0,1
+2,2
+2,0
+0,2
+1,0
+1,2
+2,2
+1,2
+1,1
+2,1
+2,2
+2,2
+1,0
+2,2
+0,0
+1,2
+1,2
+2,0
+2,2
+0,1
+1,0
+1,2
+1,2
+0,1
+2,0
+2,2
+1,2
+2,2
+1,0
+1,2
+1,2
+1,0
+2,0
+1,0
+1,0
+1,0
+0,1
+1,2
+0,0
+1,2
+2,0
+1,2
+1,2
+1,2
+0,2
+1,0
+0,0
+1,0
+2,0
+2,2
+2,1
+1,2
+1,2
+2,2
+2,1
+2,2
+1,2
+1,2
+1,2
+1,0
+2,0
+2,1
+1,0
+1,0
+2,1
+0,1
+1,1
+1,1
+1,0
+1,0
+2,2
+2,2
+2,2
+1,0
+1,2
+0,2
+1,0
+1,2
+1,2
+1,2
+1,2
+2,2
+0,1
+2,2
+2,0
+1,2
+1,0
+0,0
+0,1
+1,0
+0,1
+1,0
+0,2
+1,2
+2,1
+1,2
+2,0
+1,0
+1,2
+1,2
+0,1
+0,1
+0,0
+2,0
+0,1
+0,1
+0,0
+0,1
+0,0
+2,2
+1,2
+0,0
+1,0
+1,2
+2,0
+1,0
+1,2
+1,1
+0,1
+1,0
+1,2
+2,0
+2,0
+1,2
+2,2
+0,1
+1,0
+1,2
+0,1
+1,2
+2,1
+1,2
+0,1
+2,0
+1,2
+1,2
+0,2
+1,2
+2,2
+1,2
+2,2
+1,2
+2,2
+0,1
+1,0
+0,2
+1,2
+0,1
+2,0
+1,0
+0,1
+1,0
+1,0
+1,1
+1,2
+1,2
+1,2
+2,2
+1,0
+1,0
